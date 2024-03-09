@@ -1,0 +1,6686 @@
+@media screen and (max-width:480px) {
+
+    /* body  */
+    p {
+        font-size: 14px;
+    }
+
+    a {
+        font-size: 14px;
+    }
+
+    li {
+        font-size: 14px;
+    }
+
+    /* similar classes css start  */
+    .view_all_btn a {
+        font-size: 12px;
+    }
+
+    .view_all_btn a i {
+        margin-left: 10px;
+        font-size: 10px;
+    }
+
+    .form-control {
+        font-size: 14px;
+    }
+
+    .col-xs-6 {
+        width: 50%;
+    }
+
+    .col-xs-7 {
+        width: 70%;
+    }
+
+    .col-xs-5 {
+        width: 30%;
+    }
+
+    .margin_top {
+        margin-top: 40px;
+    }
+
+    .heading {
+        margin-bottom: 20px;
+    }
+
+    .heading h2 {
+        font-size: 18px;
+        letter-spacing: inherit;
+        margin-bottom: 2px;
+    }
+
+    .heading p {
+        font-size: 14px;
+        line-height: inherit;
+    }
+
+    .mt-d-10 {
+        margin-top: 0px;
+    }
+
+    /* similar classes css end  */
+
+
+
+
+    /* header about delivery detail section css start  */
+
+    section.flex_direction_mob {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    section.main_header form {
+        width: 70%;
+    }
+
+    section.main_header .input_form {
+        width: 100%;
+    }
+
+    section.main_header .input_form .form-control {
+        padding: 10px 50px 10px 30px
+    }
+
+    section.main_header .header_icons {
+        width: 30%;
+    }
+
+    section.about_delivery_details .delivery_flex {
+        display: none;
+    }
+
+    /* header about delivery detail section css start  */
+
+    /* header css start  */
+    section.main_header .header_text {
+        display: none;
+    }
+
+    section.about_delivery_details {
+        margin-bottom: 5px;
+    }
+
+    header .navbar {
+        padding-bottom: 10px;
+        position: relative;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link {
+        padding: 10px 20px;
+    }
+
+    header .submenu {
+        padding: 70px 15px 0 15px;
+    }
+
+    header {
+        margin-top: 0px;
+        border-top: 0;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+
+    header .burger {
+        margin-left: 10px;
+        position: absolute;
+        right: 0;
+    }
+
+    header .mob_logo {
+        display: block;
+    }
+
+    header .mob_logo img {
+        width: 70%;
+    }
+
+    section.main_header {
+        margin-bottom: 10px;
+    }
+
+    .desktop_logo {
+        display: none;
+    }
+
+    header .navbar .navbar__left {
+        display: flex;
+    }
+
+
+
+    section.top_categories .categories_slider .owl-nav {
+        display: none !important;
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav {
+        display: none !important;
+    }
+
+
+    /* header css end  */
+
+
+
+    /* top categories section css start  */
+
+    section.top_categories .category_text {
+        margin-top: 10px;
+    }
+
+    section.top_categories .categorie_img img {
+        width: 100% !important;
+        margin: 0px auto;
+    }
+
+    /* top categories section css end  */
+
+    /* waiting cart section css start  */
+
+    .waiting_cart .waiting_cart_img {
+        padding: 0px 10px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .waiting_cart .wish_list_icon {
+        border-radius: 0px 0px 0px 10px
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 15px;
+    }
+
+    .waiting_cart .add_btn {
+        border-radius: 0px 0px 10px 0px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 20px;
+    }
+
+    .waiting_cart .add_cart_btns img {
+        width: 21px !important;
+        margin: 0px auto;
+    }
+
+    .waiting_cart .bestseller span {
+        font-size: 7px;
+    }
+
+    .waiting_cart .bestseller img {
+        width: 9px !important;
+    }
+
+    section.trending .nav-tabs .nav-link {
+        width: 110px;
+    }
+
+    /* waiting cart section css end  */
+
+    /* offer section css start  */
+
+
+    section.offer .offer_img {
+        margin-bottom: 20px;
+    }
+
+    section.offer .row .col-lg-3:nth-child(3) .offer_img {
+        margin-bottom: 0;
+    }
+
+    section.offer .row .col-lg-3:nth-child(4) .offer_img {
+        margin-bottom: 0;
+    }
+
+    /* offer section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 12px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 18px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 11px;
+    }
+
+    section.exclusive_discount .exclusive_wrp {
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    section.exclusive_discount .row .col-lg-3:nth-child(3) .exclusive_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.exclusive_discount .row .col-lg-3:nth-child(4) .exclusive_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* exclusive section css end  */
+
+    /* Fashion Jewellery section css start  */
+
+
+
+    section.fashion_jewellery .fashion_img img {
+        border-radius: 10px;
+    }
+
+    section.fashion_jewellery .fashion_img {
+        margin-bottom: 15px;
+    }
+
+    section.fashion_jewellery .row .col-lg-4:nth-child(3) .fashion_img {
+        margin-bottom: 0px;
+    }
+
+    section.fashion_jewellery .row .col-lg-4:nth-child(4) .fashion_img {
+        margin-bottom: 0px;
+    }
+
+    /* Fashion Jewellery section css end  */
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.exclusive_makeup .makeup_bottom_text p {
+        font-size: 13px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* bedroom comfort section css start  */
+
+
+    section.bedroom_comfort .bedroom_comfort_img {
+        margin-bottom: 15px;
+    }
+
+    section.bedroom_comfort .row .col-lg-4:nth-child(3) .bedroom_comfort_img {
+        margin-bottom: 0px;
+    }
+
+    /* bedroom comfort section css end  */
+
+
+    /* # new on womancart section css start  */
+
+
+    section.new_on_womancart .new_on_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.new_on_womancart .new_on_slider .owl-dot {
+        display: none !important;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 18px;
+        line-height: inherit;
+    }
+
+    section.new_on_womancart .static_img img {
+        border-radius: 10px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 14px;
+        padding: 0;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+        border-radius: 50px;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+
+    /* # new on womancart section css end  */
+
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.top_brands .tab-content {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+
+    section.top_brands .about_brands_img {
+        margin-bottom: 15px;
+    }
+
+    section.top_brands .nav-tabs {
+        border-bottom: 0;
+    }
+
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.explore_gifting .explore_gifting_text {
+        margin-top: 10px;
+    }
+
+    /* Explore Gifting section css end  */
+
+
+    /* mom and baby section css start  */
+
+    section.mom_baby .mom_baby_wrp img {
+        border-radius: 10px;
+    }
+
+    section.mom_baby .mom_baby_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.mom_baby .row .col-lg-3:nth-child(3) .mom_baby_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.mom_baby .row .col-lg-3:nth-child(4) .mom_baby_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* mom and baby section css end  */
+
+    /* kitchen essential section css start  */
+
+    .kitchen_essential_wrp {
+        margin-bottom: 15px;
+    }
+
+    .kitchen_essential_img img {
+        border-radius: 10px;
+    }
+
+    .kitchen_essential .row .col-lg-4:nth-child(3) .kitchen_essential_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* kitchen essential section css end  */
+
+
+    /* flawless section css start  */
+
+    .flawless_scroll_img {
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+
+    /* flawless section css end  */
+
+
+    /* Sparkle & Shine section css start  */
+
+
+    section.sparkle_shine .sparke_wrp {
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    section.sparkle_shine .sparkle_text p {
+        font-size: 13px;
+    }
+
+    section.sparkle_shine .sparkle_text {
+        margin-top: 10px;
+    }
+
+    section.sparkle_shine .sparkle_shine_slider .owl-dot {
+        display: none !important;
+    }
+
+    section.sparkle_shine .sparkle_shine_slider .owl-nav {
+        display: none !important;
+    }
+
+    /* Sparkle & Shine section css end  */
+
+    /* for festival section css start  */
+
+
+    section.for_festival .festival_head {
+        padding: 15px;
+        position: relative;
+    }
+
+    section.for_festival .festival_head::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #00000099;
+    }
+
+    section.for_festival .quotes img {
+        width: 35px;
+
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 16px;
+    }
+
+    section.for_festival .festival_inner_content {
+        position: relative;
+        z-index: 1;
+    }
+
+    section.for_festival .text h4 {
+        font-size: 16px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        padding: 7px 15px 7px 10px;
+        font-size: 13px;
+    }
+
+    section.for_festival .festival_flex {
+        display: flex;
+        justify-content: start;
+        align-items: start;
+        height: auto;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    section.for_festival .text {
+        width: 100%;
+    }
+
+    section.for_festival .btn_with_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+
+    section.comfy_casual .explore_repeat_bg {
+        height: auto;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 25px;
+        line-height: inherit;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 107px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* be a superman section css start  */
+
+
+    section.be_superman .be_superman_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.be_superman .be_superman_wrp img {
+        border-radius: 10px;
+    }
+
+    section.be_superman .row .col-lg-4:nth-child(3) .be_superman_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* be a superman section css end  */
+
+    /* hair Essentials section css start  */
+
+
+    section.hair_essential .hair_essintial_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.hair_essential .row .col-lg-3:nth-child(3) .hair_essintial_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.hair_essential .row .col-lg-3:nth-child(4) .hair_essintial_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* hair Essentials section css end  */
+
+    /* shop without limits section css start  */
+
+
+    section.shop_limits .shop_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.shop_limits .shop_img img {
+        border-radius: 10px;
+    }
+
+    .desktop_margin_bottom {
+        margin-bottom: 15px !important;
+    }
+
+    section.shop_limits .row .col-lg-6:nth-child(4) .shop_wrp {
+        margin-bottom: 0px !important;
+    }
+
+    /* shop without limits section css end  */
+
+    /* sexual wellness section css start  */
+
+
+    section.sexual_wellness .sexsual_wrp_img img {
+        border-radius: 10px;
+    }
+
+    section.sexual_wellness .sexsual_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.sexual_wellness .row .col-lg-4:nth-child(3) .sexsual_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* sexual wellness section css end  */
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 35px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 18px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 12px;
+    }
+
+    section.shiping_details .row .col-lg-3:nth-child(4) .shiping_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* shiping details section css end  */
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 18px;
+    }
+
+    section.latest_news .form_group {
+        width: 100%;
+    }
+
+    section.latest_news .form_group .form-control {
+        border-radius: 5px;
+    }
+
+    section.latest_news .submit_btn {
+        border-radius: 5px;
+    }
+
+    /* latest news section css end  */
+
+    /* footer section css start  */
+
+
+    footer .footer_logo img {
+        width: 60%;
+    }
+
+    footer .footer_text {
+        margin-top: 10px;
+    }
+
+    footer .footer_head {
+        margin-left: 0;
+    }
+
+    footer .footer_head h4 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    footer hr {
+        margin: 0.2rem 0 1rem;
+    }
+
+    footer hr:not([size]) {
+        height: 1px;
+    }
+
+    footer .copyright_head h4 {
+        font-size: 14px;
+    }
+
+    footer .social_media_icon h5 {
+        font-size: 16px;
+    }
+
+    footer .social_media_icon ul {
+        margin-top: 10px;
+    }
+
+    footer .policy_head ul li a {
+        font-size: 12px;
+        margin-right: 15px;
+        padding-right: 15px;
+    }
+
+    /* footer section css end  */
+
+    /* sunil */
+    /* offer child */
+
+    .offer-type-child {
+        width: 32.666667%;
+    }
+
+    .offer-type-child {
+        flex: 0 0 auto;
+        width: 32%;
+    }
+
+    section.budget_discount .budget_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.budget_discount .budget {
+        width: 170px;
+        height: 170px;
+    }
+
+    section.budget_discount .budget_big_text h2 {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+
+
+
+    /* ---------- product details page css start ------------ */
+
+    section.product_details {
+        padding: 15px;
+    }
+
+    section.product_details .slider__flex .slider__images {
+        height: auto;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 0px;
+    }
+
+    section.product_details .slider__flex .slider__col {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        position: relative;
+    }
+
+    section.product_details .slider__flex .slider__thumbs {
+        height: auto;
+        width: calc(100% - 0px);
+        margin: 0;
+    }
+
+    section.product_details .slider__flex .swiper-container-free-mode>.swiper-wrapper .swiper-slide {
+        height: auto !important;
+        margin-bottom: 5px !important;
+        width: 60px !important;
+        margin-right: 5px !important;
+    }
+
+    section.product_details .slider__flex .slider__prev,
+    section.product_details .slider__flex .slider__next {
+        font-size: 20px;
+    }
+
+    section.product_details .slider__next {
+        position: absolute;
+        right: -20px;
+        top: 16px;
+        transform: rotate(266deg);
+        z-index: 2;
+    }
+
+    section.product_details .slider__prev {
+        position: absolute;
+        left: -20px;
+        top: 16px;
+        transform: rotate(266deg);
+        z-index: 2;
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 18px;
+    }
+
+    section.product_details .details_right_content {
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    section.product_details .rating_flex {
+        margin-top: 10px;
+        width: 103px;
+    }
+
+    section.product_details .rating_flex p {
+        font-size: 9px;
+    }
+
+    section.product_details .percentage p {
+        font-size: 17px;
+    }
+
+    section.product_details .price_text {
+        line-height: 19px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 9px
+    }
+
+    section.product_details .fill_check {
+        margin-right: 10px;
+        margin-top: 7px;
+    }
+
+    section.product_details .check_boxes {
+        margin-top: 5px;
+        align-items: start;
+    }
+
+    section.product_details .pr-0px {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 10px;
+        width: 50%;
+    }
+
+    section.product_details .add_to_cart a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .add_to_cart a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .wishlist_btn {
+        width: 50%;
+    }
+
+    section.product_details .wishlist_btn a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .wishlist_btn a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn {
+        margin-top: 10px;
+    }
+
+    section.product_details .buy_now_btn a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .product_quality_flex {
+        flex-direction: column;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp:nth-child(1) {
+        border: none;
+        margin-bottom: 10px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 13px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+
+    section.product_details .product_texts h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    section.product_details .product_description_wrp {
+        padding: 20px 0px;
+    }
+
+    section.product_details .product_details_pera {
+        height: 250px;
+    }
+
+    section.product_details .product_details_pera::-webkit-scrollbar {
+        width: 5px;
+        background-color: #ececec;
+    }
+
+    section.product_details .specification_tabs {
+        padding: 0px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        margin-right: 10px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+    }
+
+    section.product_details .specification_tabs .nav-link.active {
+        border-bottom: 2px solid #e7126e;
+
+    }
+
+    section.product_details .specification_tabs .table {
+        margin-top: 15px;
+    }
+
+    section.product_details .specification_tabs .table>:not(caption)>*>* {
+        padding: 0.3rem 0.5rem;
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp {
+        padding: 20px 0px 0px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    section.product_details .write_review_wrp .ratings p {
+        font-size: 10px;
+    }
+
+    section.product_details .write_review_wrp .ratings {
+        width: 40%;
+    }
+
+    section.product_details .write_review_wrp .ratings h4 img {
+        width: 15px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns {
+        margin-left: 0;
+        padding-left: 20px;
+        height: 68px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns p {
+        margin-bottom: 5px;
+    }
+
+    section.product_details .write_review_wrp .write_btn a {
+        padding: 6px 20px;
+        font-size: 10px;
+        border-radius: 2px
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 30px;
+    }
+
+    section.product_details .write_review_wrp .write_text_flex {
+        flex-direction: column;
+        border-bottom: 1px solid #ebebeb;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    section.product_details .write_review_wrp .rating_flex_wrp {
+        margin-top: 20px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    section.product_details .write_review_wrp .rating_flex_wrp p {
+        margin-bottom: 0px;
+    }
+
+    section.product_details .write_review_wrp .rating_no a {
+        font-size: 12px;
+        width: 28px;
+    }
+
+    section.product_details .write_review_wrp .rating_no img {
+        width: 10px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading h5 {
+
+        font-size: 17px;
+        margin-top: 15px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+
+    section.product_details .delivery_wrp {
+        padding: 10px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp .user_name h4 {
+        font-size: 16px;
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 1px;
+        width: 8px;
+    }
+
+    section.product_details .flex_delivery .form-control {
+        border-radius: 3px;
+        padding: 5px 30px;
+        font-size: 12px;
+    }
+
+    section.product_details .flex_delivery img {
+        left: 7px;
+        width: 16px;
+        top: 8px;
+    }
+
+    section.product_details .flex_delivery .check_btn {
+        border-radius: 3px;
+        padding: 5px 0px;
+        font-size: 12px;
+    }
+
+
+    section.product_details .detail_fix_wrp {
+        margin-top: 10px;
+        height: auto;
+        padding: 15px;
+    }
+
+    section.product_details .detail_white_bg {
+        padding: 15px 15px 30px 15px;
+    }
+
+    section.product_details .add_btn a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+    section.product_details .details_btn {
+        margin-top: 10px;
+        justify-content: center;
+    }
+
+    section.product_details .dummy_price {
+        margin-left: 20px;
+    }
+
+    section.product_details .detail_fix_wrp .price_flex {
+        width: 80%;
+        padding-bottom: 10px;
+    }
+
+    section.product_details .detail_white_bg .fix_text span {
+        font-size: 11px;
+    }
+
+    /* ---------- product details page css end ------------ */
+
+
+    /*---------------- Product listing page css start ---------------- */
+    section.listing_product .content {
+        padding-top: 30px;
+        padding-left: 12px;
+    }
+
+    section.listing_product .waiting_cart .col-lg-3 {
+        margin-bottom: 20px;
+    }
+
+    section.listing_product .filters-actions>div>* {
+        font-size: 13px;
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        padding: 8px 5px 8px 5px;
+        font-size: 13px;
+    }
+
+    section.listing_product .filter-header {
+        font-size: 16px;
+        justify-content: space-between;
+        text-transform: uppercase;
+        padding: 10px 0px;
+        margin-bottom: 0px;
+    }
+
+    section.listing_product .filter_card:after {
+        display: none;
+    }
+
+    section.listing_product .filter_card {
+        border-top: 1px solid #d9d9d9;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .explore_btn {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    section.listing_product .pd-right-0 {
+        padding-right: 12px;
+    }
+    section.listing_product span.mr-2.filter-close-btn {
+        margin-left: 13px;
+    }
+
+    /*---------------- Product listing page css end ---------------- */
+
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+
+    /* body  */
+    p {
+        font-size: 14px;
+    }
+
+    a {
+        font-size: 14px;
+    }
+
+    li {
+        font-size: 14px;
+    }
+
+    /* similar classes css start  */
+    .view_all_btn a {
+        font-size: 12px;
+    }
+
+    .view_all_btn a i {
+        margin-left: 10px;
+        font-size: 10px;
+    }
+
+    .form-control {
+        font-size: 14px;
+    }
+
+    .col-xs-6 {
+        width: 50%;
+    }
+
+    .col-xs-7 {
+        width: 70%;
+    }
+
+    .col-xs-5 {
+        width: 30%;
+    }
+
+    .margin_top {
+        margin-top: 40px;
+    }
+
+    .heading {
+        margin-bottom: 20px;
+    }
+
+    .heading h2 {
+        font-size: 18px;
+        letter-spacing: inherit;
+        margin-bottom: 2px;
+    }
+
+    .heading p {
+        font-size: 14px;
+        line-height: inherit;
+    }
+
+    .mt-d-10 {
+        margin-top: 0px;
+    }
+
+    /* similar classes css end  */
+    /* header about delivery detail section css start  */
+
+    section.flex_direction_mob {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+    section.about_delivery_details .delivery_flex {
+        display: none;
+    }
+
+    /* header about delivery detail section css start  */
+
+    /* header css start  */
+
+    section.main_header .header_text {
+        display: none;
+    }
+
+    header {
+        margin-top: 0px;
+        border-top: 0;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+
+    header .burger {
+        position: absolute;
+        right: 0px
+    }
+
+    header .mob_logo {
+        display: block;
+    }
+
+    header .mob_logo img {
+        width: 70%;
+    }
+
+    section.main_header {
+        margin-bottom: 10px;
+    }
+
+    .desktop_logo {
+        display: none;
+    }
+
+    header .navbar .navbar__left {
+        display: flex;
+    }
+
+
+
+    section.top_categories .categories_slider .owl-nav {
+        display: none !important;
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav {
+        display: none !important;
+    }
+
+
+    /* header css end  */
+
+
+
+    /* top categories section css start  */
+
+    section.top_categories .category_text {
+        margin-top: 10px;
+    }
+
+    section.top_categories .categorie_img img {
+        width: 100% !important;
+        margin: 0px auto;
+    }
+
+    /* top categories section css end  */
+
+    /* waiting cart section css start  */
+
+    .waiting_cart .waiting_cart_img {
+        padding: 0px 10px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .waiting_cart .wish_list_icon {
+        border-radius: 0px 0px 0px 10px
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 15px;
+    }
+
+    .waiting_cart .add_btn {
+        border-radius: 0px 0px 10px 0px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 20px;
+    }
+
+    .waiting_cart .add_cart_btns img {
+        width: 21px !important;
+        margin: 0px auto;
+    }
+
+    .waiting_cart .bestseller span {
+        font-size: 7px;
+    }
+
+    .waiting_cart .bestseller img {
+        width: 9px !important;
+    }
+
+    /* waiting cart section css end  */
+
+    /* offer section css start  */
+
+
+    section.offer .offer_img {
+        margin-bottom: 20px;
+    }
+
+    section.offer .row .col-lg-3:nth-child(3) .offer_img {
+        margin-bottom: 0;
+    }
+
+    section.offer .row .col-lg-3:nth-child(4) .offer_img {
+        margin-bottom: 0;
+    }
+
+    /* offer section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 14px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 20px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 11px;
+    }
+
+    section.exclusive_discount .exclusive_wrp {
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    section.exclusive_discount .row .col-lg-3:nth-child(3) .exclusive_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.exclusive_discount .row .col-lg-3:nth-child(4) .exclusive_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* exclusive section css end  */
+
+    /* Fashion Jewellery section css start  */
+
+
+
+    section.fashion_jewellery .fashion_img img {
+        border-radius: 10px;
+    }
+
+    section.fashion_jewellery .fashion_img {
+        margin-bottom: 15px;
+    }
+
+    section.fashion_jewellery .row .col-lg-4:nth-child(3) .fashion_img {
+        margin-bottom: 0px;
+    }
+
+    section.fashion_jewellery .row .col-lg-4:nth-child(4) .fashion_img {
+        margin-bottom: 0px;
+    }
+
+    /* Fashion Jewellery section css end  */
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.exclusive_makeup .makeup_bottom_text p {
+        font-size: 13px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* bedroom comfort section css start  */
+
+
+    section.bedroom_comfort .bedroom_comfort_img {
+        margin-bottom: 15px;
+    }
+
+    section.bedroom_comfort .row .col-lg-4:nth-child(3) .bedroom_comfort_img {
+        margin-bottom: 0px;
+    }
+
+    /* bedroom comfort section css end  */
+
+
+    /* # new on womancart section css start  */
+
+
+    section.new_on_womancart .new_on_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.new_on_womancart .new_on_slider .owl-dot {
+        display: none !important;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 18px;
+        line-height: inherit;
+    }
+
+    section.new_on_womancart .static_img img {
+        border-radius: 10px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 14px;
+        padding: 0;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+        border-radius: 50px;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+
+    /* # new on womancart section css end  */
+
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.top_brands .tab-content {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+
+    section.top_brands .about_brands_img {
+        margin-bottom: 15px;
+    }
+
+    section.top_brands .nav-tabs {
+        border-bottom: 0;
+    }
+
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.explore_gifting .explore_gifting_text {
+        margin-top: 10px;
+    }
+
+    /* Explore Gifting section css end  */
+
+
+    /* mom and baby section css start  */
+
+    section.mom_baby .mom_baby_wrp img {
+        border-radius: 10px;
+    }
+
+    section.mom_baby .mom_baby_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.mom_baby .row .col-lg-3:nth-child(3) .mom_baby_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.mom_baby .row .col-lg-3:nth-child(4) .mom_baby_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* mom and baby section css end  */
+
+    /* kitchen essential section css start  */
+
+    .kitchen_essential_wrp {
+        margin-bottom: 15px;
+    }
+
+    .kitchen_essential_img img {
+        border-radius: 10px;
+    }
+
+    .kitchen_essential .row .col-lg-4:nth-child(3) .kitchen_essential_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* kitchen essential section css end  */
+
+
+    /* Sparkle & Shine section css start  */
+
+
+    section.sparkle_shine .sparke_wrp {
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    section.sparkle_shine .sparkle_text p {
+        font-size: 13px;
+    }
+
+    section.sparkle_shine .sparkle_text {
+        margin-top: 10px;
+    }
+
+    section.sparkle_shine .sparkle_shine_slider .owl-dot {
+        display: none !important;
+    }
+
+    section.sparkle_shine .sparkle_shine_slider .owl-nav {
+        display: none !important;
+    }
+
+
+    /* Sparkle & Shine section css end  */
+
+    /* for festival section css start  */
+
+
+    section.for_festival .festival_head {
+        padding: 15px;
+        position: relative;
+    }
+
+    section.for_festival .festival_head::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #00000099;
+    }
+
+    section.for_festival .quotes img {
+        width: 35px;
+
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 18px;
+    }
+
+    section.for_festival .festival_inner_content {
+        position: relative;
+        z-index: 1;
+    }
+
+    section.for_festival .text h4 {
+        font-size: 18px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        padding: 7px 15px 7px 10px;
+        font-size: 13px;
+    }
+
+    section.for_festival .festival_flex {
+        display: flex;
+        justify-content: start;
+        align-items: start;
+        height: auto;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    section.for_festival .text {
+        width: 100%;
+    }
+
+    section.for_festival .btn_with_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+
+    section.comfy_casual .explore_repeat_bg {
+        height: auto;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 25px;
+        line-height: inherit;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 107px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* be a superman section css start  */
+
+
+    section.be_superman .be_superman_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.be_superman .be_superman_wrp img {
+        border-radius: 10px;
+    }
+
+    section.be_superman .row .col-lg-4:nth-child(3) .be_superman_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* be a superman section css end  */
+
+    /* hair Essentials section css start  */
+
+
+    section.hair_essential .hair_essintial_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.hair_essential .row .col-lg-3:nth-child(3) .hair_essintial_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.hair_essential .row .col-lg-3:nth-child(4) .hair_essintial_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* hair Essentials section css end  */
+
+    /* shop without limits section css start  */
+
+
+    section.shop_limits .shop_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.shop_limits .shop_img img {
+        border-radius: 10px;
+    }
+
+    .desktop_margin_bottom {
+        margin-bottom: 15px !important;
+    }
+
+    section.shop_limits .row .col-lg-6:nth-child(4) .shop_wrp {
+        margin-bottom: 0px !important;
+    }
+
+    /* shop without limits section css end  */
+
+    /* sexual wellness section css start  */
+
+
+    section.sexual_wellness .sexsual_wrp_img img {
+        border-radius: 10px;
+    }
+
+    section.sexual_wellness .sexsual_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.sexual_wellness .row .col-lg-4:nth-child(3) .sexsual_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* sexual wellness section css end  */
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 35px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 18px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 12px;
+    }
+
+    section.shiping_details .row .col-lg-3:nth-child(4) .shiping_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* shiping details section css end  */
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 18px;
+    }
+
+    section.latest_news .form_group {
+        width: 100%;
+    }
+
+    section.latest_news .form_group .form-control {
+        border-radius: 5px;
+    }
+
+    section.latest_news .submit_btn {
+        border-radius: 5px;
+    }
+
+    /* latest news section css end  */
+
+    /* footer section css start  */
+
+
+    footer .footer_logo img {
+        width: 60%;
+    }
+
+    footer .footer_text {
+        margin-top: 10px;
+    }
+
+    footer .footer_head {
+        margin-left: 0;
+    }
+
+    footer .footer_head h4 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    footer hr {
+        margin: 0.2rem 0 1rem;
+    }
+
+    footer hr:not([size]) {
+        height: 1px;
+    }
+
+    footer .copyright_head h4 {
+        font-size: 14px;
+    }
+
+    footer .social_media_icon h5 {
+        font-size: 16px;
+    }
+
+    footer .social_media_icon ul {
+        margin-top: 10px;
+    }
+
+    /* footer section css end  */
+
+
+    /* sunil */
+    /* offer child */
+
+    .offer-type-child {
+        width: 32.666667%;
+    }
+
+    .offer-type-child {
+        flex: 0 0 auto;
+        width: 32%;
+    }
+
+    section.budget_discount .budget_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.budget_discount .budget {
+        width: 170px;
+        height: 170px;
+    }
+
+
+    section.budget_discount .budget_big_text h2 {
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+
+
+    /* ---------- product details page css start ------------ */
+
+    section.product_details {
+        padding: 15px;
+    }
+
+    section.product_details .slider__flex .slider__images {
+        height: auto;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 0px;
+    }
+
+    section.product_details .slider__flex .slider__col {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        position: relative;
+    }
+
+    section.product_details .slider__flex .slider__thumbs {
+        height: auto;
+        width: calc(100% - 0px);
+        margin: 0;
+    }
+
+    section.product_details .slider__flex .swiper-container-free-mode>.swiper-wrapper .swiper-slide {
+        height: auto !important;
+        margin-bottom: 5px !important;
+        width: 60px !important;
+        margin-right: 5px !important;
+    }
+
+    section.product_details .slider__flex .slider__prev,
+    section.product_details .slider__flex .slider__next {
+        font-size: 20px;
+    }
+
+    section.product_details .slider__next {
+        position: absolute;
+        right: -20px;
+        top: 16px;
+        transform: rotate(266deg);
+        z-index: 2;
+    }
+
+    section.product_details .slider__prev {
+        position: absolute;
+        left: -20px;
+        top: 16px;
+        transform: rotate(266deg);
+        z-index: 2;
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 18px;
+    }
+
+    section.product_details .details_right_content {
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    section.product_details .rating_flex {
+        margin-top: 10px;
+        width: 103px;
+    }
+
+    section.product_details .rating_flex p {
+        font-size: 9px;
+    }
+
+    section.product_details .percentage p {
+        font-size: 17px;
+    }
+
+    section.product_details .price_text {
+        line-height: 19px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 9px
+    }
+
+    section.product_details .fill_check {
+        margin-right: 10px;
+        margin-top: 7px;
+    }
+
+    section.product_details .check_boxes {
+        margin-top: 5px;
+        align-items: start;
+    }
+
+    section.product_details .pr-0px {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 10px;
+        width: 50%;
+    }
+
+    section.product_details .add_to_cart a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .add_to_cart a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .wishlist_btn {
+        width: 50%;
+    }
+
+    section.product_details .wishlist_btn a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .wishlist_btn a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn {
+        margin-top: 10px;
+    }
+
+    section.product_details .buy_now_btn a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .product_quality_flex {
+        flex-direction: column;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp:nth-child(1) {
+        border: none;
+        margin-bottom: 10px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 13px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+
+    section.product_details .product_texts h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    section.product_details .product_description_wrp {
+        padding: 20px 0px;
+    }
+
+    section.product_details .product_details_pera {
+        height: 250px;
+    }
+
+    section.product_details .product_details_pera::-webkit-scrollbar {
+        width: 5px;
+        background-color: #ececec;
+    }
+
+    section.product_details .specification_tabs {
+        padding: 0px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        margin-right: 10px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+    }
+
+    section.product_details .specification_tabs .nav-link.active {
+        border-bottom: 2px solid #e7126e;
+
+    }
+
+    section.product_details .specification_tabs .table {
+        margin-top: 15px;
+    }
+
+    section.product_details .specification_tabs .table>:not(caption)>*>* {
+        padding: 0.3rem 0.5rem;
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp {
+        padding: 20px 0px 0px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    section.product_details .write_review_wrp .ratings p {
+        font-size: 10px;
+    }
+
+    section.product_details .write_review_wrp .ratings {
+        width: 40%;
+    }
+
+    section.product_details .write_review_wrp .ratings h4 img {
+        width: 15px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns {
+        margin-left: 0;
+        padding-left: 20px;
+        height: 68px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns p {
+        margin-bottom: 5px;
+    }
+
+    section.product_details .write_review_wrp .write_btn a {
+        padding: 6px 20px;
+        font-size: 10px;
+        border-radius: 2px
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 30px;
+    }
+
+    section.product_details .write_review_wrp .write_text_flex {
+        flex-direction: column;
+        border-bottom: 1px solid #ebebeb;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    section.product_details .write_review_wrp .rating_flex_wrp {
+        margin-top: 20px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    section.product_details .write_review_wrp .rating_flex_wrp p {
+        margin-bottom: 0px;
+    }
+
+    section.product_details .write_review_wrp .rating_no a {
+        font-size: 12px;
+        width: 28px;
+    }
+
+    section.product_details .write_review_wrp .rating_no img {
+        width: 10px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading h5 {
+
+        font-size: 17px;
+        margin-top: 15px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+
+    section.product_details .delivery_wrp {
+        padding: 10px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp .user_name h4 {
+        font-size: 16px;
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 1px;
+        width: 8px;
+    }
+
+    section.product_details .flex_delivery .form-control {
+        border-radius: 3px;
+        padding: 5px 30px;
+        font-size: 12px;
+    }
+
+    section.product_details .flex_delivery img {
+        left: 7px;
+        width: 16px;
+        top: 8px;
+    }
+
+    section.product_details .flex_delivery .check_btn {
+        border-radius: 3px;
+        padding: 5px 0px;
+        font-size: 12px;
+    }
+
+
+    section.product_details .detail_fix_wrp {
+        margin-top: 10px;
+        height: auto;
+        padding: 15px;
+    }
+
+    section.product_details .detail_white_bg {
+        padding: 15px 15px 30px 15px;
+    }
+
+    section.product_details .add_btn a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+    section.product_details .details_btn {
+        margin-top: 10px;
+        justify-content: center;
+    }
+
+    section.product_details .dummy_price {
+        margin-left: 20px;
+    }
+
+    section.product_details .detail_fix_wrp .price_flex {
+        width: 80%;
+        padding-bottom: 10px;
+    }
+
+    section.product_details .detail_white_bg .fix_text span {
+        font-size: 11px;
+    }
+
+    /* ---------- product details page css end ------------ */
+
+
+
+    /*---------------- Product listing page css start ---------------- */
+    section.listing_product .content {
+        padding-top: 30px;
+        padding-left: 12px;
+    }
+
+    section.listing_product .waiting_cart .col-lg-3 {
+        margin-bottom: 20px;
+    }
+
+    section.listing_product .filters-actions>div>* {
+        font-size: 13px;
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        padding: 8px 5px 8px 5px;
+        font-size: 13px;
+    }
+
+    section.listing_product .filter-header {
+        font-size: 16px;
+        justify-content: space-between;
+        text-transform: uppercase;
+        padding: 10px 0px;
+        margin-bottom: 0px;
+    }
+
+    section.listing_product .filter_card:after {
+        display: none;
+    }
+
+    section.listing_product .filter_card {
+        border-top: 1px solid #d9d9d9;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .explore_btn {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .pd-right-0 {
+        padding-right: 12px;
+    }
+    section.listing_product span.mr-2.filter-close-btn {
+        margin-left: 13px;
+    }
+
+    /*---------------- Product listing page css end ---------------- */
+
+
+}
+
+
+@media only screen and (min-width:320px) and (max-width:380px) {
+    p {
+        font-size: 12px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        padding: 7px 12px 7px 8px;
+        font-size: 12px;
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 11px;
+    }
+
+    .waiting_cart .discount p {
+        font-size: 12px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 15px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        padding: 12px 8px;
+    }
+
+
+    /* sunil */
+    /* offer child */
+
+    .offer-type-child {
+        width: 32.666667%;
+    }
+
+    .offer-type-child {
+        flex: 0 0 auto;
+        width: 32%;
+    }
+
+    section.budget_discount .budget_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.budget_discount .budget {
+        width: 170px;
+        height: 170px;
+    }
+
+
+    section.budget_discount .budget_big_text h2 {
+        margin-top: 10px;
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+}
+
+
+@media screen and (min-width:800px) and (max-width:1280px) {
+
+    .container {
+        max-width: 1140px !important;
+    }
+
+    a {
+        font-size: 13px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    span {
+        font-size: 13px;
+    }
+
+    .heading h2 {
+        font-size: 22px;
+    }
+
+    .heading p {
+        font-size: 15px;
+    }
+
+    .margin_top {
+        margin-top: 60px;
+    }
+
+    /* header css start  */
+
+    section.about_delivery_details .delivery_flex p {
+        font-size: 11px;
+    }
+
+    section.about_delivery_details .app_gift ul li a {
+        font-size: 11px;
+    }
+
+    section.main_header .mike {
+        top: 2px;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link {
+        font-size: 12px;
+    }
+
+    header .submenu .submenu__inner .submenu__title {
+        font-size: 14px;
+    }
+
+    header .menu .menu__inner .menu__item {
+        padding: 5px 30px 0px 0;
+    }
+
+    section.main_header .header_text ul li a {
+        font-size: 13px;
+    }
+
+    section.main_header .input_form .form-control {
+        font-size: 10px;
+        padding: 8px 70px 8px 30px;
+    }
+
+    section.main_header .header_icons ul li img {
+        width: 30px;
+    }
+
+    /* header css end  */
+
+
+    /* top categories section css start  */
+
+    section.top_categories .categories_slider .owl-prev span img {
+        left: -35px;
+    }
+
+    section.top_categories .categories_slider .owl-next span img {
+        right: -35px;
+    }
+
+    /* top categories section css end  */
+
+
+    /* waiting cart section css start  */
+
+
+    .waiting_cart .waiting_cart_slider .owl-prev span img {
+        left: -40px;
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-next span img {
+        right: -40px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        padding: 20px 10px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .waiting_cart_text span {
+        font-size: 9px;
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 15px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .discount p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 30px;
+    }
+
+    /* waiting cart section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 18px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 25px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 11px;
+    }
+
+    section.trending .nav-tabs .nav-link {
+        font-size: 14px;
+    }
+
+    /* exclusive section css end  */
+
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-prev span img {
+        top: 85px;
+        left: -40px;
+    }
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-next span img {
+        top: 85px;
+        right: -40px;
+    }
+
+    section.new_on_womancart .view_all_btn {
+        margin-top: 10px;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 16px;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        font-size: 15px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-prev span img {
+        top: 28px;
+        left: -40px;
+    }
+
+    section.top_brands .top_brands_slider .owl-next span img {
+        top: 28px;
+        right: -40px;
+    }
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-prev span img {
+        top: 70px;
+        left: -40px;
+    }
+
+    section.explore_gifting .explore_gifting_slider .owl-next span img {
+        top: 70px;
+        right: -40px;
+    }
+
+    /* Explore Gifting section css end  */
+
+    /* for festival section css start  */
+
+
+    section.for_festival .text h4 {
+        font-size: 20px;
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 20px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        font-size: 13px;
+    }
+
+    section.for_festival .festival_bottom_text a {
+        font-size: 12px;
+    }
+
+    section.for_festival .festival_bottom_text {
+        bottom: 15px;
+    }
+
+    section.for_festival .festival_flex {
+        height: 417px;
+    }
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-prev span img {
+        top: 210px;
+        left: -40px;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-next span img {
+        top: 210px;
+        right: -40px;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 180px;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    section.comfy_casual .view_btn a {
+        font-size: 17px;
+    }
+
+    section.comfy_casual .view_btn a i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 14px;
+        margin-left: 15px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 15px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 16px;
+    }
+
+    section.shiping_details .about_details {
+        margin-left: 10px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 11px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 35px;
+    }
+
+    /* shiping details section css end  */
+
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 20px;
+    }
+
+    section.latest_news .form_group .form-control {
+        font-size: 11px;
+    }
+
+    .search_letter img {
+        width: 13px;
+    }
+
+    section.latest_news .submit_btn {
+        font-size: 11px;
+    }
+
+    /* latest news section css end  */
+
+
+    /* footer css start  */
+
+    footer .copyright_head h4 {
+        font-size: 15px;
+    }
+
+    footer .policy_head ul li a {
+        font-size: 12px;
+        margin-right: 10px;
+        padding-right: 10px;
+    }
+
+    .social_media_icon h5 {
+        font-size: 15px;
+    }
+
+    footer .social_media_icon ul li a i {
+        font-size: 20px;
+    }
+
+    /* footer css end  */
+
+
+    /* sunil start*/
+
+    /* offer child */
+
+    .offer-type-child {
+        width: 32.666667%;
+    }
+
+    .offer-type-child {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+
+    section.budget_discount .budget {
+        width: 165px;
+        height: 165px
+    }
+
+    section.budget_discount .budget_text h4 {
+        font-size: 16px;
+    }
+
+    section.budget_discount .budget_big_text h2 {
+        font-size: 22px;
+    }
+
+    section.budget_discount .shop_now a {
+        font-size: 14px;
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-prev span img {
+        top: 60px;
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-next span img {
+        top: 60px;
+    }
+
+    /* sunil end*/
+
+
+    /*-----------------  Product details page css start ----------------- */
+
+    section.product_details .slider__flex .slider__col {
+        margin-right: 40px;
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 20px;
+    }
+
+    section.product_details .dummy_price p {
+        font-size: 13px;
+    }
+
+    section.product_details .price_text p {
+        font-size: 22px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 10px;
+    }
+
+    section.product_details .price_text {
+        line-height: 19px;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 40px;
+    }
+
+    section.product_details .size_box button {
+        font-size: 9px;
+    }
+
+    section.product_details .shade_text p span {
+        font-size: 13px;
+    }
+
+    section.product_details .check_boxes {
+        align-items: start;
+        margin-top: 10px;
+    }
+
+    section.product_details .fill_check {
+        margin-right: 15px;
+        margin-top: 7px;
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 10px;
+        width: 60%;
+    }
+
+    section.product_details .wishlist_btn {
+        width: 38%;
+    }
+
+    section.product_details .add_to_cart a {
+        font-size: 12px;
+    }
+
+    section.product_details .wishlist_btn a {
+        font-size: 12px;
+    }
+
+    section.product_details .buy_now_btn a {
+        font-size: 12px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 10px;
+        font-size: 11px;
+
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 13px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p img {
+        width: 17px;
+    }
+
+    section.product_details .delivery_wrp {
+        padding: 10px 20px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 12px;
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 3px;
+        width: 9px;
+    }
+
+    section.product_details .product_texts h3 {
+        margin-bottom: 15px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 50%;
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 30px;
+    }
+
+    section.product_details .detail_fix_wrp .price_text p {
+        font-size: 17px;
+    }
+
+    section.product_details .add_btn a {
+        font-size: 13px;
+        padding: 8px 20px;
+        border-radius: 5px;
+    }
+
+    section.product_details .wishlist_btns a {
+        font-size: 13px;
+        padding: 8px 20px;
+        border-radius: 5px;
+    }
+
+    .breadcrumb a {
+        font-size: 13px;
+        line-height: inherit;
+    }
+
+    .breadcrumb {
+        margin-bottom: 0px;
+        margin-top: 15px;
+    }
+
+    /*-----------------  Product details page css end ----------------- */
+
+    /*-----------------  Product Listing page css start ----------------- */
+
+
+    section.listing_product .filter-title {
+        font-size: 12px;
+    }
+
+    section.listing_product .wrapper .search-icon {
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        font-size: 10px;
+    }
+
+    section.listing_product .filter-body label {
+        font-size: 10px;
+    }
+
+    section.listing_product .custom-control.custom-checkbox a {
+        font-size: 10px;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .search-box input {
+        font-size: 9px;
+    }
+
+    section.listing_product .wrapper .search-box {
+        max-width: calc(100% - 40px);
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        font-size: 11px;
+    }
+
+    /*-----------------  Product Listing page css end ----------------- */
+
+}
+
+@media only screen and (min-width:1024px) and (max-width:1200px) {
+
+    .container {
+        max-width: 1010px !important;
+    }
+
+    a {
+        font-size: 12px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    span {
+        font-size: 12px;
+    }
+
+    .heading {
+        margin-bottom: 20px;
+    }
+
+    .heading h2 {
+        font-size: 20px;
+    }
+
+    .heading p {
+        font-size: 14px;
+    }
+
+    .margin_top {
+        margin-top: 50px;
+    }
+
+    /* header css start  */
+
+    section.about_delivery_details .delivery_flex p {
+        font-size: 10px;
+    }
+
+    section.about_delivery_details .app_gift ul li a {
+        font-size: 10px;
+    }
+
+    section.main_header .mike {
+        top: 2px;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link {
+        font-size: 11px;
+        letter-spacing: 0.5px;
+    }
+
+    header .submenu .submenu__inner .submenu__title {
+        font-size: 13px;
+    }
+
+    header .menu .menu__inner .menu__item {
+        padding: 5px 20px 0px 0;
+    }
+
+    section.main_header .header_text ul li a {
+        font-size: 11px;
+    }
+
+    section.main_header .input_form .form-control {
+        font-size: 9px;
+        padding: 7px 60px 7px 25px;
+    }
+
+    section.main_header .header_icons ul li img {
+        width: 28px;
+    }
+
+    section.main_header .search_icon img {
+        width: 11px;
+    }
+
+    section.main_header .mike img {
+        width: 10px;
+    }
+
+    /* header css end  */
+
+
+    /* top categories section css start  */
+
+    section.top_categories .categories_slider .owl-prev span img {
+        left: -35px;
+        top: 40px;
+        width: 30px
+    }
+
+    section.top_categories .categories_slider .owl-next span img {
+        right: -35px;
+        top: 40px;
+        width: 30px
+    }
+
+    /* top categories section css end  */
+
+
+    /* waiting cart section css start  */
+
+
+    .waiting_cart .waiting_cart_slider .owl-prev span img {
+        left: -40px;
+        width: 30px
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-next span img {
+        right: -40px;
+        width: 30px
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        padding: 20px 10px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 11px;
+    }
+
+    .waiting_cart .waiting_cart_text span {
+        font-size: 9px;
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 12px;
+    }
+
+    .waiting_cart .discount p {
+        font-size: 12px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 20px;
+    }
+
+    /* waiting cart section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 16px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 22px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 10px;
+    }
+
+    section.trending .nav-tabs .nav-link {
+        font-size: 13px;
+        width: 120px;
+    }
+
+    /* exclusive section css end  */
+
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-prev span img {
+        top: 85px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-next span img {
+        top: 85px;
+        right: -40px;
+        width: 30px;
+    }
+
+    section.new_on_womancart .view_all_btn {
+        margin-top: 7px;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 14px;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        font-size: 12px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        margin-left: 5px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-prev span img {
+        top: 28px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.top_brands .top_brands_slider .owl-next span img {
+        top: 28px;
+        right: -40px;
+        width: 30px;
+
+    }
+
+    section.sparkle_shine .sparke_wrp {
+        border-radius: 10px;
+    }
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-prev span img {
+        top: 70px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.explore_gifting .explore_gifting_slider .owl-next span img {
+        top: 70px;
+        right: -40px;
+        width: 30px;
+    }
+
+    /* Explore Gifting section css end  */
+
+    /* kitchen essential section css start  */
+
+
+    .view_all_btn a i {
+        margin-left: 10px;
+        font-size: 10px;
+    }
+
+    .kitchen_essential_text .kitchecn_text h6 {
+        font-size: 12px;
+    }
+
+    /* kitchen essential section css end  */
+
+
+    /* for festival section css start  */
+
+
+    section.for_festival .text h4 {
+        font-size: 20px;
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 20px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        font-size: 13px;
+    }
+
+    section.for_festival .festival_bottom_text a {
+        font-size: 12px;
+    }
+
+    section.for_festival .festival_bottom_text {
+        bottom: 15px;
+    }
+
+    section.for_festival .festival_flex {
+        height: 365px;
+    }
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-prev span img {
+        top: 190px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-next span img {
+        top: 190px;
+        right: -40px;
+        width: 30px;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 180px;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    section.comfy_casual .view_btn a {
+        font-size: 15px;
+    }
+
+    section.comfy_casual .view_btn a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 15px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 14px;
+    }
+
+    section.shiping_details .about_details {
+        margin-left: 10px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 10px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 25px;
+    }
+
+    /* shiping details section css end  */
+
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 20px;
+    }
+
+    section.latest_news .form_group .form-control {
+        font-size: 11px;
+    }
+
+    .search_letter img {
+        width: 13px;
+    }
+
+    section.latest_news .submit_btn {
+        font-size: 11px;
+    }
+
+    /* latest news section css end  */
+
+
+    /* footer css start  */
+    footer .footer_head {
+        margin-left: 50px;
+    }
+
+    footer .footer_head h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    footer .copyright_head h4 {
+        font-size: 15px;
+    }
+
+    footer .footer_head ul li {
+        margin: 0;
+    }
+
+    footer .policy_head ul li a {
+        font-size: 12px;
+        margin-right: 10px;
+        padding-right: 10px;
+    }
+
+    .social_media_icon h5 {
+        font-size: 15px;
+    }
+
+    footer .social_media_icon ul li a i {
+        font-size: 20px;
+    }
+
+    /* footer css end  */
+
+
+    /* gulshan start  */
+
+    section.budget_discount .budget {
+        width: 145px;
+        height: 145px
+    }
+
+    section.budget_discount .budget_text h4 {
+        font-size: 16px;
+    }
+
+    section.budget_discount .budget_big_text h2 {
+        font-size: 22px;
+    }
+
+    section.budget_discount .shop_now a {
+        font-size: 14px;
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-prev span img {
+        left: -40px;
+        width: 30px
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-next span img {
+        right: -40px;
+        width: 30px
+    }
+
+    /* gulshan end  */
+
+
+    /*-----------------  Product details page css start ----------------- */
+
+    section.product_details .slider__flex .slider__col {
+        margin-right: 30px;
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 18px;
+    }
+
+    section.product_details .dummy_price p {
+        font-size: 11px;
+    }
+
+    section.product_details .price_text p {
+        font-size: 20px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 8px;
+    }
+
+    section.product_details .price_text {
+        line-height: 19px;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 30px;
+    }
+
+    section.product_details .size_box button {
+        font-size: 8px;
+    }
+
+    section.product_details .shade_text p span {
+        font-size: 12px;
+    }
+
+    section.product_details .check_boxes {
+        align-items: start;
+        margin-top: 10px;
+    }
+
+    section.product_details .fill_check {
+        margin-right: 15px;
+        margin-top: 7px;
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 10px;
+        width: 60%;
+    }
+
+    section.product_details .wishlist_btn {
+        width: 38%;
+    }
+
+    section.product_details .add_to_cart a {
+        font-size: 10px;
+        padding: 10px 10px;
+    }
+
+    section.product_details .wishlist_btn a {
+        font-size: 10px;
+        padding: 10px 10px;
+    }
+
+    section.product_details .add_to_cart a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .wishlist_btn a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn a {
+        font-size: 10px;
+        padding: 10px 10px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 7px;
+        font-size: 10px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 12px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p img {
+        width: 15px;
+    }
+
+    section.product_details .flex_delivery .form-control {
+        padding: 8px 30px;
+        font-size: 11px;
+    }
+
+    section.product_details .delivery_wrp {
+        padding: 10px 15px;
+    }
+
+    section.product_details .specification_tabs .table {
+        margin-top: 20px;
+    }
+
+    section.product_details .flex_delivery img {
+        left: 8px;
+        width: 17px;
+        top: 13px;
+    }
+
+    section.product_details .specification_tabs .table>:not(caption)>*>* {
+        font-size: 11px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        font-size: 10px;
+    }
+
+    section.product_details .flex_delivery .check_btn {
+        padding: 8px 30px;
+        font-size: 11px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 12px;
+    }
+
+    section.product_details .details_right_content {
+        margin-right: 30px
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 3px;
+        width: 9px;
+    }
+
+    section.product_details .product_texts h3 {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 60%;
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 30px;
+    }
+
+    section.product_details .write_review_wrp .user_name h4 {
+        font-size: 15px;
+    }
+
+    section.product_details .write_review_wrp .user_name p {
+        font-size: 10px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading h5 {
+        font-size: 16px;
+    }
+
+    section.product_details .write_review_wrp .rating_no img {
+        width: 11px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review a {
+        padding: 8px 20px;
+        font-size: 11px;
+    }
+
+    section.product_details .write_review_wrp .user_name p img {
+        width: 11px;
+        margin-top: -3px;
+    }
+
+    section.product_details .detail_white_bg {
+        padding: 20px;
+    }
+
+    section.product_details .write_review_wrp {
+        padding: 30px 0px 30px 0px;
+
+    }
+
+    section.product_details .write_review_wrp .write_btn a {
+        font-size: 10px;
+        padding: 10px 25px
+    }
+
+    section.product_details .detail_fix_wrp .price_text p {
+        font-size: 15px;
+    }
+
+    section.product_details .detail_fix_wrp {
+        height: 1770px;
+    }
+
+    section.product_details .add_btn a {
+        font-size: 11px;
+        padding: 8px 20px;
+        border-radius: 3px;
+    }
+
+    section.product_details .detail_fix_wrp {
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    section.product_details .wishlist_btns a {
+        font-size: 11px;
+        padding: 8px 20px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns a img {
+        width: 11px;
+    }
+
+    .breadcrumb a {
+        font-size: 11px;
+        line-height: inherit;
+    }
+
+    .breadcrumb {
+        margin-bottom: 0px;
+        margin-top: 15px;
+    }
+
+    /*-----------------  Product details page css end ----------------- */
+
+
+    /*-----------------  Product Listing page css start ----------------- */
+
+
+    section.listing_product .filter-title {
+        font-size: 12px;
+    }
+
+    section.listing_product .wrapper .search-icon {
+        width: 22px;
+        height: 22px;
+        line-height: 22px;
+        font-size: 9px;
+    }
+
+    section.listing_product .filter-body label {
+        font-size: 9px;
+    }
+
+    section.listing_product .custom-control.custom-checkbox a {
+        font-size: 9px;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .search-box input {
+        font-size: 9px;
+    }
+
+    section.listing_product .wrapper .search-box {
+        max-width: calc(100% - 40px);
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        font-size: 10px;
+    }
+
+    section.listing_product .filters-actions .dropdown-item {
+        font-size: 9px;
+    }
+
+    section.listing_product .filters-actions .dropdown-menu {
+        min-width: 169px
+    }
+
+    section.listing_product .dropdown .dropdown-toggle span {
+        font-size: 9px;
+    }
+
+    /*-----------------  Product Listing page css end ----------------- */
+
+
+}
+
+@media only screen and (min-width:800px) and (max-width:991px) {
+
+    .container {
+        max-width: 840px !important;
+    }
+
+    a {
+        font-size: 10px;
+    }
+
+    p {
+        font-size: 10px;
+    }
+
+    span {
+        font-size: 10px;
+    }
+
+    .heading {
+        margin-bottom: 15px;
+    }
+
+    .heading h2 {
+        font-size: 17px;
+    }
+
+    .heading p {
+        font-size: 11px;
+    }
+
+    .margin_top {
+        margin-top: 40px;
+    }
+
+    /* header css start  */
+
+    header {
+        margin-top: 10px;
+    }
+
+    section.about_delivery_details {
+        margin-bottom: 10px;
+        padding: 7px 0px;
+    }
+
+    section.about_delivery_details .delivery_flex p {
+        font-size: 8px;
+    }
+
+    section.about_delivery_details .app_gift ul li a {
+        font-size: 8px;
+    }
+
+    section.about_delivery_details .app_gift ul li img {
+        width: 10px;
+    }
+
+    section.main_header .mike {
+        top: -2px;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link {
+        font-size: 10px;
+        letter-spacing: 0px;
+        border-bottom: 2px solid #ffffff;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link:hover {
+        border-bottom: 2px solid #f10d70;
+    }
+
+    header .submenu {
+        padding: 15px 5px;
+    }
+
+    header .submenu .submenu__inner .submenu__title {
+        font-size: 11px;
+    }
+
+    header .menu .menu__inner .menu__item {
+        padding: 5px 20px 0px 0;
+    }
+
+    section.main_header .header_text ul li a {
+        font-size: 10px;
+        padding: 0px 5px;
+    }
+
+    section.main_header .input_form .form-control {
+        font-size: 7px;
+        padding: 6px 40px 6px 25px;
+    }
+
+    section.main_header .header_icons ul li img {
+        width: 26px;
+    }
+
+    section.main_header .search_icon img {
+        width: 8px;
+    }
+
+    section.main_header .mike img {
+        width: 7px;
+    }
+
+    /* header css end  */
+
+
+    /* top categories section css start  */
+
+    section.top_categories .categories_slider .owl-prev span img {
+        left: -35px;
+        top: 40px;
+        width: 30px
+    }
+
+    section.top_categories .categories_slider .owl-next span img {
+        right: -35px;
+        top: 40px;
+        width: 30px
+    }
+
+    /* top categories section css end  */
+
+
+    /* waiting cart section css start  */
+
+
+    .waiting_cart .waiting_cart_slider .owl-prev span img {
+        left: -40px;
+        width: 30px;
+        top: 90px;
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-next span img {
+        right: -40px;
+        width: 30px;
+        top: 90px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        padding: 20px 10px;
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 9px;
+    }
+
+    .waiting_cart .bestseller span {
+        font-size: 5px;
+    }
+
+    .waiting_cart .bestseller img {
+        width: 8px !important;
+    }
+
+    .waiting_cart .waiting_cart_text span {
+        font-size: 8px;
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 11px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 10px;
+    }
+
+    .waiting_cart .add_cart_btns img {
+        width: 11px !important;
+    }
+
+    .waiting_cart .wish_list_icon {
+        padding: 10.5px 0px;
+        border-radius: 0px 0px 0px 10px;
+    }
+
+    .waiting_cart .add_btn {
+        padding: 4px 0px;
+        border-radius: 0px 0px 10px 0px;
+    }
+
+    .waiting_cart .discount p {
+        font-size: 10px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 15px;
+    }
+
+    /* waiting cart section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 13px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 17px;
+        margin-bottom: 0px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 8px;
+    }
+
+    section.trending .nav-tabs .nav-link {
+        font-size: 11px;
+        width: 100px;
+    }
+
+    /* exclusive section css end  */
+
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-prev span img {
+        top: 85px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-next span img {
+        top: 85px;
+        right: -40px;
+        width: 30px;
+    }
+
+    section.new_on_womancart .view_all_btn {
+        margin-top: 5px;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 12px;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        font-size: 10px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: 5px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-prev span img {
+        top: 28px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.top_brands .top_brands_slider .owl-next span img {
+        top: 28px;
+        right: -40px;
+        width: 30px;
+
+    }
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-prev span img {
+        top: 70px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.explore_gifting .explore_gifting_slider .owl-next span img {
+        top: 70px;
+        right: -40px;
+        width: 30px;
+    }
+
+    /* Explore Gifting section css end  */
+
+    /* kitchen essential section css start  */
+
+
+    .view_all_btn a i {
+        margin-left: 10px;
+        font-size: 10px;
+    }
+
+    .kitchen_essential_text .kitchecn_text h6 {
+        font-size: 12px;
+    }
+
+    .flawless_scroll_img {
+        margin-bottom: 12px;
+    }
+
+    .flawless_static_img img {
+        border-radius: 10px;
+    }
+
+    .flawless_scroll_img img {
+        border-radius: 10px;
+    }
+
+    /* kitchen essential section css end  */
+
+
+    /* for festival section css start  */
+
+    section.for_festival .festival_head {
+        padding: 10px;
+    }
+
+    section.for_festival .text h4 {
+        font-size: 14px;
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 14px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        font-size: 11px;
+        padding: 6px 15px 6px 10px
+    }
+
+    section.for_festival .quotes img {
+        width: 35px;
+    }
+
+    section.for_festival .festival_bottom_text a {
+        font-size: 10px;
+    }
+
+    section.for_festival .festival_bottom_text {
+        bottom: 10px;
+    }
+
+    section.for_festival .festival_flex {
+        height: 365px;
+        margin-left: 20px;
+    }
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+    section.comfy_casual .comfy_bottom_text {
+        padding: 5px 0px;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-prev span img {
+        top: 150px;
+        left: -40px;
+        width: 30px;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-next span img {
+        top: 150px;
+        right: -40px;
+        width: 30px;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 130px;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    section.comfy_casual .view_btn a {
+        font-size: 15px;
+    }
+
+    section.comfy_casual .view_btn a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    section.sexual_wellness .sexsual_wrp_img img {
+        border-radius: 10px;
+    }
+
+    section.shop_limits .shop_img img {
+        border-radius: 10px;
+    }
+
+    section.be_superman .be_superman_wrp img {
+        border-radius: 10px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 12px;
+        border-radius: 5px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 11px;
+        margin-bottom: 2px;
+    }
+
+    section.shiping_details .about_details {
+        margin-left: 10px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 8px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 20px;
+    }
+
+    /* shiping details section css end  */
+
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 16px;
+    }
+
+    section.latest_news .form_group .form-control {
+        font-size: 10px;
+        border-radius: 4px;
+    }
+
+    .search_letter img {
+        width: 11px;
+    }
+
+    section.latest_news .submit_btn {
+        font-size: 10px;
+        border-radius: 4px;
+    }
+
+    /* latest news section css end  */
+
+
+    /* footer css start  */
+    footer .footer_head {
+        margin-left: 40px;
+    }
+
+    footer .footer_head h4 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    footer .copyright_head h4 {
+        font-size: 13px;
+    }
+
+    footer .footer_head ul li {
+        margin: 0;
+    }
+
+    footer .policy_head ul li a {
+        font-size: 10px;
+        margin-right: 10px;
+        padding-right: 10px;
+    }
+
+    .social_media_icon h5 {
+        font-size: 13px;
+    }
+
+    footer .social_media_icon ul li a i {
+        font-size: 18px;
+    }
+
+    /* footer css end  */
+
+
+    /* gulshan start  */
+
+    section.budget_discount .budget {
+        width: 145px;
+        height: 145px
+    }
+
+    section.budget_discount .budget_text h4 {
+        font-size: 16px;
+    }
+
+    section.budget_discount .budget_big_text h2 {
+        font-size: 22px;
+    }
+
+    section.budget_discount .shop_now a {
+        font-size: 14px;
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-prev span img {
+        left: -40px;
+        width: 30px
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-next span img {
+        right: -40px;
+        width: 30px
+    }
+
+    /* gulshan end  */
+
+
+
+    /*-----------------  Product details page css start ----------------- */
+
+    section.product_details .slider__flex .slider__col {
+        margin-right: 20px;
+        margin-left: 10px;
+    }
+
+    section.product_details .slider__flex .slider__images {
+        height: 430px;
+    }
+
+    section.product_details .slider__flex .slider__thumbs {
+        height: calc(531px - 96px);
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 15px;
+    }
+
+    section.product_details .dummy_price p {
+        font-size: 11px;
+    }
+
+    section.product_details .price_text p {
+        font-size: 17px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 8px;
+    }
+
+    section.product_details .price_text {
+        line-height: 14px;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 20px;
+    }
+
+    section.product_details .dummy_price p span {
+        font-size: 11px;
+        margin-left: 5px;
+    }
+
+    section.product_details .percentage p {
+        font-size: 11px;
+    }
+
+    section.product_details .select_text {
+        margin-right: 10px;
+    }
+
+    section.product_details .size_box button {
+        font-size: 7px;
+    }
+
+    section.product_details .rating_flex p {
+        font-size: 7px;
+    }
+
+    section.product_details .rating_flex {
+        width: 85px;
+    }
+
+    section.product_details .rating_point {
+
+        padding-right: 12px;
+        margin-right: 0px;
+    }
+
+    section.product_details .shade_text p span {
+        font-size: 10px;
+    }
+
+    section.product_details .select_shade input[type=checkbox]:checked:after {
+        width: 5px;
+        height: 12px
+    }
+
+    section.product_details .select_shade input[type=checkbox] {
+        width: 15px;
+        height: 22px;
+    }
+
+    section.product_details .select_shade input[type=checkbox]:before {
+        width: 20px;
+        height: 20px;
+    }
+
+    section.product_details .check_boxes {
+        align-items: start;
+        margin-top: 10px;
+    }
+
+    section.product_details .fill_check {
+        margin-right: 15px;
+        margin-top: 7px;
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 10px;
+        width: 60%;
+    }
+
+    section.product_details .wishlist_btn {
+        width: 38%;
+    }
+
+    section.product_details .add_to_cart a {
+        font-size: 8px;
+        padding: 8px 10px;
+    }
+
+    section.product_details .wishlist_btn a {
+        font-size: 8px;
+        padding: 8px 10px;
+    }
+
+    section.product_details .add_to_cart a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn {
+        margin-top: 9px;
+    }
+
+    section.product_details .wishlist_btn a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn a {
+        font-size: 8px;
+        padding: 8px 10px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 5px;
+        font-size: 8px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 10px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p img {
+        width: 12px;
+    }
+
+    section.product_details .flex_delivery .form-control {
+        padding: 8px 25px;
+        font-size: 10px;
+    }
+
+    section.product_details .delivery_wrp {
+        padding: 10px 15px;
+    }
+
+    section.product_details .specification_tabs .table {
+        margin-top: 20px;
+    }
+
+    section.product_details .flex_delivery img {
+        left: 8px;
+        width: 12px;
+        top: 13px;
+    }
+
+    section.product_details .specification_tabs .table>:not(caption)>*>* {
+        font-size: 10px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        font-size: 8px;
+    }
+
+    section.product_details .specification_tabs .nav-link.active {
+        border-bottom: 2px solid #e7126e;
+    }
+
+    section.product_details .flex_delivery .check_btn {
+        padding: 8px 0px;
+        font-size: 10px;
+    }
+
+    section.product_details .slider__flex .slider__prev,
+    section.product_details .slider__flex .slider__next {
+        font-size: 20px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 10px;
+    }
+
+    section.product_details .details_right_content {
+        margin-right: 30px
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 3px;
+        width: 7px;
+    }
+
+    section.product_details .product_texts h3 {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 60%;
+        margin-left: 10px;
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 22px;
+    }
+
+    section.product_details .write_review_wrp .user_name h4 {
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp .rating_no a {
+        width: 26px;
+        border-radius: 2px;
+        font-size: 8px;
+    }
+
+    section.product_details .write_review_wrp .user_name p {
+        font-size: 7px;
+    }
+
+    section.product_details .rating_point img {
+        width: 7px;
+        margin-top: -3px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading h5 {
+        font-size: 14px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading {
+        margin-top: 5px;
+    }
+
+    section.product_details .write_review_wrp .rating_no img {
+        width: 8px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review a {
+        padding: 8px 20px;
+        font-size: 11px;
+    }
+
+    section.product_details .write_review_wrp .user_name p img {
+        width: 8px;
+        margin-top: -3px;
+    }
+
+    section.product_details .detail_white_bg {
+        padding: 20px;
+    }
+
+    section.product_details .write_review_wrp {
+        padding: 30px 0px 30px 0px;
+
+    }
+
+    section.product_details .write_review_wrp .write_btn a {
+        font-size: 9px;
+        padding: 8px 20px;
+    }
+
+    section.product_details .detail_fix_wrp .price_text p {
+        font-size: 13px;
+    }
+
+    section.product_details .detail_fix_wrp {
+        height: 1660px;
+    }
+
+    section.product_details .add_btn a {
+        font-size: 10px;
+        padding: 8px 15px;
+        border-radius: 3px;
+    }
+
+    section.product_details .detail_fix_wrp {
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    section.product_details .details_btn {
+        margin-top: 0px;
+    }
+
+    section.product_details .wishlist_btns a {
+        font-size: 10px;
+        padding: 8px 15px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns a img {
+        width: 11px;
+    }
+
+    .breadcrumb a {
+        font-size: 8px;
+        line-height: inherit;
+    }
+
+    .breadcrumb {
+        margin-bottom: 0px;
+    }
+
+    /*-----------------  Product details page css end ----------------- */
+
+    /*-----------------  Product Listing page css start ----------------- */
+
+    section.listing_product .filter-title {
+        font-size: 10px;
+    }
+
+    section.listing_product .wrapper .search-icon {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 8px;
+    }
+
+    section.listing_product .filter-body label {
+        font-size: 8px;
+    }
+
+    section.listing_product .custom-control.custom-checkbox a {
+        font-size: 8px;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .search-box input {
+        font-size: 6px;
+    }
+
+    section.listing_product .wrapper .search-box {
+        max-width: calc(100% - 40px);
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        font-size: 9px;
+    }
+
+    section.listing_product .filters-actions .dropdown-item {
+        font-size: 9px;
+    }
+
+    section.listing_product .filters-actions .dropdown-menu {
+        min-width: 169px
+    }
+
+    section.listing_product .dropdown .dropdown-toggle span {
+        font-size: 8px;
+    }
+
+    /*-----------------  Product Listing page css end ----------------- */
+
+
+}
+
+
+@media only screen and (min-width:641px) and (max-width:786px) {
+    .container {
+        max-width: 750px !important;
+    }
+
+    a {
+        font-size: 8px;
+    }
+
+    p {
+        font-size: 8px;
+    }
+
+    span {
+        font-size: 8px;
+    }
+
+    .heading {
+        margin-bottom: 10px;
+    }
+
+    .heading h2 {
+        font-size: 15px;
+    }
+
+    .heading p {
+        font-size: 9px;
+    }
+
+    .margin_top {
+        margin-top: 25px;
+    }
+
+    /* header css start  */
+
+    header {
+        margin-top: 10px;
+    }
+
+    section.about_delivery_details {
+        margin-bottom: 10px;
+        padding: 5px 0px;
+    }
+
+    section.about_delivery_details .delivery_flex p {
+        font-size: 7px;
+    }
+
+    section.about_delivery_details .app_gift ul li a {
+        font-size: 7px;
+    }
+
+    section.about_delivery_details .app_gift ul li img {
+        width: 8px;
+    }
+
+    section.main_header .mike {
+        top: -4px;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link {
+        font-size: 8px;
+        letter-spacing: 0px;
+        border-bottom: 1px solid #ffffff;
+    }
+
+    header .menu .menu__inner .menu__item .menu__link:hover {
+        border-bottom: 1px solid #f10d70;
+    }
+
+    header .navbar {
+        padding-top: 0px;
+    }
+
+    header .submenu {
+        padding: 15px 5px;
+    }
+
+    header .menu .menu__inner .menu__item a {
+        padding-bottom: 0;
+    }
+
+    header .submenu .submenu__inner .submenu__title {
+        font-size: 9px;
+        margin-bottom: 2px;
+    }
+
+    header .menu .menu__inner .menu__item {
+        padding: 5px 15px 0px 0;
+    }
+
+    section.main_header .header_text ul li a {
+        font-size: 8px;
+        padding: 0px 5px;
+    }
+
+    section.main_header .input_form .form-control {
+        font-size: 6px;
+        padding: 5px 30px 5px 20px;
+        border-radius: 2px;
+    }
+
+    section.main_header .header_logo img {
+        width: 70%;
+    }
+
+    section.main_header .header_icons ul li img {
+        width: 24px;
+    }
+
+    section.main_header .search_icon {
+        left: 6px;
+    }
+
+    section.main_header .search_icon img {
+        width: 6px;
+    }
+
+    section.main_header .mike img {
+        width: 6px;
+    }
+
+    /* header css end  */
+
+
+    /* top categories section css start  */
+
+    section.top_categories .categories_slider .owl-prev span img {
+        left: -20px;
+        top: 40px;
+        width: 25px
+    }
+
+    section.top_categories .categories_slider .owl-next span img {
+        right: -20px;
+        top: 40px;
+        width: 25px
+    }
+
+    /* top categories section css end  */
+
+
+    /* waiting cart section css start  */
+
+
+    .waiting_cart .waiting_cart_slider .owl-prev span img {
+        left: -20px;
+        width: 26px;
+        top: 100px;
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-next span img {
+        right: -20px;
+        width: 26px;
+        top: 100px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        padding: 20px 10px;
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 9px;
+    }
+
+    .waiting_cart .bestseller span {
+        font-size: 5px;
+    }
+
+    .waiting_cart .bestseller img {
+        width: 8px !important;
+    }
+
+    .waiting_cart .waiting_cart_text span {
+        font-size: 8px;
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 11px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 10px;
+    }
+
+    .waiting_cart .add_cart_btns img {
+        width: 11px !important;
+    }
+
+    .waiting_cart .wish_list_icon {
+        padding: 10.5px 0px;
+        border-radius: 0px 0px 0px 10px;
+    }
+
+    .waiting_cart .add_btn {
+        padding: 4px 0px;
+        border-radius: 0px 0px 10px 0px;
+    }
+
+    .waiting_cart .discount p {
+        font-size: 10px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 15px;
+    }
+
+    /* waiting cart section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 13px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 17px;
+        margin-bottom: 0px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 8px;
+    }
+
+    section.trending .nav-tabs .nav-link {
+        font-size: 9px;
+        width: 70px;
+        padding: 8px 0px;
+        border-radius: 3px;
+    }
+
+    /* exclusive section css end  */
+
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-prev span img {
+        top: 85px;
+        left: -20px;
+        width: 28px;
+    }
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-next span img {
+        top: 85px;
+        right: -20px;
+        width: 28px;
+    }
+
+    .view_all_btn a {
+        padding: 6px 10px;
+    }
+
+    section.new_on_womancart .view_all_btn {
+        margin-top: 5px;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text {
+        padding: 10px;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 10px;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        font-size: 9px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: 5px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-prev span img {
+        top: 28px;
+        left: -20px;
+        width: 25px;
+    }
+
+    section.top_brands .top_brands_slider .owl-next span img {
+        top: 28px;
+        right: -20px;
+        width: 25px;
+
+    }
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-prev span img {
+        top: 70px;
+        left: -20px;
+        width: 25px;
+    }
+
+    section.explore_gifting .explore_gifting_slider .owl-next span img {
+        top: 70px;
+        right: -20px;
+        width: 25px;
+
+    }
+
+    /* Explore Gifting section css end  */
+
+    /* kitchen essential section css start  */
+
+
+    .view_all_btn a i {
+        margin-left: 10px;
+        font-size: 10px;
+    }
+
+    .kitchen_essential_text .kitchecn_text h6 {
+        font-size: 12px;
+    }
+
+    .flawless_scroll_img {
+        margin-bottom: 12px;
+    }
+
+    .flawless_static_img img {
+        border-radius: 10px;
+    }
+
+    .flawless_scroll_img img {
+        border-radius: 10px;
+    }
+
+    /* kitchen essential section css end  */
+
+
+    /* for festival section css start  */
+
+    section.for_festival .festival_head {
+        padding: 10px;
+    }
+
+    section.for_festival .text h4 {
+        font-size: 14px;
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 14px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        font-size: 11px;
+        padding: 6px 15px 6px 10px
+    }
+
+    section.for_festival .quotes img {
+        width: 35px;
+    }
+
+    section.for_festival .festival_bottom_text a {
+        font-size: 10px;
+    }
+
+    section.for_festival .festival_bottom_text {
+        bottom: 10px;
+    }
+
+    section.for_festival .festival_flex {
+        height: 365px;
+        margin-left: 20px;
+    }
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+    section.comfy_casual .comfy_bottom_text {
+        padding: 5px 0px;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-prev span img {
+        top: 150px;
+        left: -20px;
+        width: 24px;
+    }
+
+    section.comfy_casual .explore_text {
+        padding: 10px;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav .owl-next span img {
+        top: 150px;
+        right: -20px;
+        width: 24px;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 120px;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    section.comfy_casual .view_btn a {
+        font-size: 15px;
+    }
+
+    section.comfy_casual .view_btn a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    section.sexual_wellness .sexsual_wrp_img img {
+        border-radius: 10px;
+    }
+
+    section.shop_limits .shop_img img {
+        border-radius: 10px;
+    }
+
+    section.be_superman .be_superman_wrp img {
+        border-radius: 10px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 8px;
+        margin-bottom: 2px;
+    }
+
+    section.shiping_details .about_details {
+        margin-left: 10px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 6px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 20px;
+    }
+
+    /* shiping details section css end  */
+
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 16px;
+    }
+
+    section.latest_news .form_group .form-control {
+        font-size: 10px;
+        border-radius: 4px;
+    }
+
+    .search_letter img {
+        width: 11px;
+    }
+
+    section.latest_news .submit_btn {
+        font-size: 10px;
+        border-radius: 4px;
+    }
+
+    /* latest news section css end  */
+
+
+    /* footer css start  */
+    footer .footer_head {
+        margin-left: 50px;
+    }
+
+    footer .footer_head h4 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    footer .copyright_head h4 {
+        font-size: 13px;
+    }
+
+    footer .footer_head ul li {
+        margin: 0;
+    }
+
+    footer .policy_head ul li a {
+        font-size: 10px;
+        margin-right: 10px;
+        padding-right: 10px;
+    }
+
+    .social_media_icon h5 {
+        font-size: 13px;
+    }
+
+    footer .social_media_icon ul li a i {
+        font-size: 18px;
+    }
+
+    /* footer css end  */
+
+
+    /* gulshan start  */
+
+    section.budget_discount .budget {
+        width: 125px;
+        height: 125px
+    }
+
+    section.budget_discount .budget_text h4 {
+        font-size: 12px;
+    }
+
+    section.budget_discount .budget_big_text h2 {
+        font-size: 16px;
+    }
+
+    section.budget_discount .shop_now a {
+        font-size: 11px;
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-prev span img {
+        left: -20px;
+        width: 26px;
+        top: 60px;
+    }
+
+    section.budget_discount .budget_slider .owl-nav .owl-next span img {
+        right: -20px;
+        width: 26px;
+        top: 60px;
+    }
+
+    /* gulshan end  */
+
+
+    /*-----------------  Product details page css start ----------------- */
+
+    section.product_details .slider__flex .slider__col {
+        margin-right: 20px;
+        margin-left: 10px;
+    }
+
+    section.product_details .slider__flex .slider__images {
+        height: 330px;
+    }
+
+    section.product_details .slider__flex .slider__thumbs {
+        height: calc(425px - 96px);
+    }
+
+    section.product_details .fill_check a {
+        padding: 20px;
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 15px;
+    }
+
+    section.product_details .dummy_price p {
+        font-size: 11px;
+    }
+
+    section.product_details .price_text p {
+        font-size: 17px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 8px;
+    }
+
+    section.product_details .price_text {
+        line-height: 14px;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 20px;
+    }
+
+    section.product_details .dummy_price p span {
+        font-size: 10px;
+        margin-left: 5px;
+    }
+
+    section.product_details .percentage p {
+        font-size: 11px;
+    }
+
+    section.product_details .select_text {
+        margin-right: 10px;
+    }
+
+    section.product_details .size_box button {
+        font-size: 7px;
+    }
+
+    section.product_details .rating_flex p {
+        font-size: 7px;
+    }
+
+    section.product_details .rating_flex {
+        width: 85px;
+    }
+
+    section.product_details .rating_point {
+
+        padding-right: 12px;
+        margin-right: 0px;
+    }
+
+    section.product_details .shade_text p span {
+        font-size: 10px;
+    }
+
+    section.product_details .select_shade input[type=checkbox]:checked:after {
+        width: 5px;
+        height: 12px
+    }
+
+    section.product_details .select_shade input[type=checkbox] {
+        width: 15px;
+        height: 22px;
+    }
+
+    section.product_details .select_shade input[type=checkbox]:before {
+        width: 20px;
+        height: 20px;
+    }
+
+    section.product_details .check_boxes {
+        align-items: start;
+        margin-top: 10px;
+    }
+
+    section.product_details .fill_check {
+        margin-right: 15px;
+        margin-top: 7px;
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 5px;
+        width: 53%;
+    }
+
+
+
+    section.product_details .wishlist_btn {
+        width: 44%;
+    }
+
+    section.product_details .add_to_cart a {
+        font-size: 6px;
+        padding: 8px 10px;
+    }
+
+    section.product_details .wishlist_btn a {
+        font-size: 6px;
+        padding: 8px 10px;
+    }
+
+    section.product_details .add_to_cart a img {
+        width: 10px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn {
+        margin-top: 9px;
+    }
+
+    section.product_details .wishlist_btn a img {
+        width: 10px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn a {
+        font-size: 8px;
+        padding: 8px 10px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 5px;
+        font-size: 8px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 9px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p img {
+        width: 10px;
+    }
+
+    section.product_details .flex_delivery .form-control {
+        padding: 4px 20px;
+        font-size: 8px;
+        border-radius: 2px;
+    }
+
+    section.product_details .delivery_wrp {
+        padding: 10px 15px;
+    }
+
+    section.product_details .specification_tabs .table {
+        margin-top: 20px;
+    }
+
+    section.product_details .flex_delivery img {
+        left: 6px;
+        width: 9px;
+        top: 8px;
+    }
+
+    section.product_details .specification_tabs .table>:not(caption)>*>* {
+        font-size: 10px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        font-size: 8px;
+    }
+
+    section.product_details .specification_tabs .nav-link.active {
+        border-bottom: 2px solid #e7126e;
+    }
+
+    section.product_details .flex_delivery .check_btn {
+        padding: 4px 20px;
+        font-size: 8px;
+        border-radius: 2px
+    }
+
+    section.product_details .slider__flex .slider__prev,
+    section.product_details .slider__flex .slider__next {
+        font-size: 20px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 8px;
+    }
+
+    section.product_details .details_right_content {
+        margin-right: 30px
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 3px;
+        width: 7px;
+    }
+
+    section.product_details .product_texts h3 {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 60%;
+        margin-left: 10px;
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 22px;
+    }
+
+    section.product_details .write_review_wrp .user_name h4 {
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp .rating_no a {
+        width: 26px;
+        border-radius: 2px;
+        font-size: 8px;
+    }
+
+    section.product_details .write_review_wrp .user_name p {
+        font-size: 7px;
+    }
+
+    section.product_details .rating_point img {
+        width: 7px;
+        margin-top: -3px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading h5 {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading {
+        margin-top: 5px;
+    }
+
+    section.product_details .detail_fix_wrp {
+        height: 1630px;
+    }
+
+    section.product_details .write_review_wrp .rating_no img {
+        width: 8px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review a {
+        padding: 6px 15px;
+        font-size: 9px;
+        border-radius: 3px;
+    }
+
+    section.product_details .write_review_wrp .user_name p img {
+        width: 8px;
+        margin-top: -3px;
+    }
+
+    .breadcrumb a {
+        font-size: 7px;
+        line-height: inherit;
+    }
+
+    .breadcrumb {
+        margin-bottom: 0px;
+    }
+
+    section.product_details .detail_white_bg {
+        padding: 10px;
+    }
+
+    section.product_details .write_review_wrp {
+        padding: 30px 0px 30px 0px;
+
+    }
+
+    section.product_details .write_review_wrp .write_btn a {
+        font-size: 6px;
+        padding: 6px 10px;
+        border-radius: 3px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns {
+        margin-left: 20px;
+        padding-left: 20px;
+
+        height: 60px;
+    }
+
+    section.product_details .detail_fix_wrp .price_text p {
+        font-size: 11px;
+    }
+
+    section.product_details .add_btn a {
+        font-size: 6px;
+        padding: 6px 10px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns {
+        margin-left: 4px;
+    }
+
+    section.product_details .detail_fix_wrp {
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    section.product_details .detail_fix_wrp .price_flex {
+        padding-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    section.product_details .write_review_wrp .ratings p {
+        font-size: 8px;
+    }
+
+    section.product_details .write_review_wrp .ratings h4 {
+        font-size: 15px;
+    }
+
+    section.product_details .write_review_wrp .ratings h4 img {
+        width: 14px;
+    }
+
+    section.product_details .details_btn {
+        margin-top: 0px;
+    }
+
+    section.product_details .wishlist_btns a {
+        font-size: 6px;
+        padding: 6px 10px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns a img {
+        width: 11px;
+    }
+
+    /*-----------------  Product details page css end ----------------- */
+
+
+      /*-----------------  Product Listing page css start ----------------- */
+
+      section.listing_product .filter-title {
+        font-size: 8px;
+    }
+
+    section.listing_product .wrapper .search-icon {
+        width: 17px;
+        height: 17px;
+        line-height: 17px;
+        font-size: 5px;
+        
+    }
+
+    section.listing_product .filter-body label {
+        font-size: 6px;
+    }
+
+    section.listing_product .custom-control.custom-checkbox a {
+        font-size: 6px;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 7px;
+    }
+
+    section.listing_product .search-box input {
+        font-size: 5px;
+    }
+
+    section.listing_product .wrapper .search-box {
+        max-width: calc(100% - 40px);
+    }
+    section.listing_product .content{
+        padding-top: 20px;
+    padding-left: 20px 
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        font-size: 7px;
+    }
+
+    section.listing_product .filters-actions .dropdown-item {
+        font-size: 7px;
+    }
+
+    section.listing_product .filters-actions .dropdown-menu {
+        min-width: 113px;
+    }
+
+    section.listing_product .dropdown .dropdown-toggle span {
+        font-size: 6px;
+    }
+    section.listing_product .filters-actions .dropdown-toggle::after{
+        width: 3px;
+    height: 3px;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+    }
+
+    /*-----------------  Product Listing page css end ----------------- */
+
+
+}
+
+@media only screen and (min-width:571px) and (max-width:766px) {
+
+    /* body  */
+    p {
+        font-size: 14px;
+    }
+
+    a {
+        font-size: 14px;
+    }
+
+    li {
+        font-size: 14px;
+    }
+
+    /* similar classes css start  */
+    .view_all_btn a {
+        font-size: 12px;
+    }
+
+    .view_all_btn a i {
+        margin-left: 10px;
+        font-size: 10px;
+    }
+
+    .form-control {
+        font-size: 14px;
+    }
+
+    .col-xs-6 {
+        width: 50%;
+    }
+
+    .col-xs-7 {
+        width: 70%;
+    }
+
+    .col-xs-5 {
+        width: 30%;
+    }
+
+    .margin_top {
+        margin-top: 40px;
+    }
+
+    .heading {
+        margin-bottom: 20px;
+    }
+
+    .heading h2 {
+        font-size: 18px;
+        letter-spacing: inherit;
+        margin-bottom: 2px;
+    }
+
+    .heading p {
+        font-size: 14px;
+        line-height: inherit;
+    }
+
+    /* similar classes css end  */
+    /* header about delivery detail section css start  */
+
+    section.flex_direction_mob {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+    section.about_delivery_details .delivery_flex {
+        display: none;
+    }
+
+    /* header about delivery detail section css start  */
+
+    /* header css start  */
+
+    section.main_header .header_text {
+        display: none;
+    }
+
+    header {
+        margin-top: 0px;
+        border-top: 0;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+
+    header .burger {
+        position: absolute;
+        right: 0px
+    }
+
+    header .mob_logo {
+        display: block;
+    }
+
+    header .mob_logo img {
+        width: 70%;
+    }
+
+    section.main_header {
+        margin-bottom: 10px;
+    }
+
+    .desktop_logo {
+        display: none;
+    }
+
+    header .navbar .navbar__left {
+        display: flex;
+    }
+
+
+
+    section.top_categories .categories_slider .owl-nav {
+        display: none !important;
+    }
+
+    .waiting_cart .waiting_cart_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.comfy_casual .comfy_slider .owl-nav {
+        display: none !important;
+    }
+
+
+    /* header css end  */
+
+
+
+    /* top categories section css start  */
+
+    section.top_categories .category_text {
+        margin-top: 10px;
+    }
+
+    section.top_categories .categorie_img img {
+        width: 100% !important;
+        margin: 0px auto;
+    }
+
+    /* top categories section css end  */
+
+    /* waiting cart section css start  */
+
+    .waiting_cart .waiting_cart_img {
+        padding: 0px 10px;
+    }
+
+    .waiting_cart .waiting_cart_text p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .waiting_cart_wrp {
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .waiting_cart .wish_list_icon {
+        border-radius: 0px 0px 0px 10px
+    }
+
+    .waiting_cart .actual_price p {
+        font-size: 15px;
+    }
+
+    .waiting_cart .add_btn {
+        border-radius: 0px 0px 10px 0px;
+    }
+
+    .waiting_cart .dummy_price p {
+        font-size: 13px;
+    }
+
+    .waiting_cart .discount {
+        margin-left: 20px;
+    }
+
+    .waiting_cart .add_cart_btns img {
+        width: 21px !important;
+        margin: 0px auto;
+    }
+
+    .waiting_cart .bestseller span {
+        font-size: 7px;
+    }
+
+    .waiting_cart .bestseller img {
+        width: 9px !important;
+    }
+
+    /* waiting cart section css end  */
+
+    /* offer section css start  */
+
+
+    section.offer .offer_img {
+        margin-bottom: 20px;
+    }
+
+    section.offer .row .col-lg-3:nth-child(3) .offer_img {
+        margin-bottom: 0;
+    }
+
+    section.offer .row .col-lg-3:nth-child(4) .offer_img {
+        margin-bottom: 0;
+    }
+
+    /* offer section css end  */
+
+
+    /* exclusive section css start  */
+
+
+    section.exclusive_discount .exclusive_text h4 {
+        font-size: 14px;
+    }
+
+    section.exclusive_discount .excluive_big_text h2 {
+        font-size: 20px;
+    }
+
+    section.exclusive_discount .shop_now a {
+        font-size: 11px;
+    }
+
+    section.exclusive_discount .exclusive_wrp {
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    section.exclusive_discount .row .col-lg-3:nth-child(3) .exclusive_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.exclusive_discount .row .col-lg-3:nth-child(4) .exclusive_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* exclusive section css end  */
+
+    /* Fashion Jewellery section css start  */
+
+
+
+    section.fashion_jewellery .fashion_img img {
+        border-radius: 10px;
+    }
+
+    section.fashion_jewellery .fashion_img {
+        margin-bottom: 15px;
+    }
+
+    section.fashion_jewellery .row .col-lg-4:nth-child(3) .fashion_img {
+        margin-bottom: 0px;
+    }
+
+    section.fashion_jewellery .row .col-lg-4:nth-child(4) .fashion_img {
+        margin-bottom: 0px;
+    }
+
+    /* Fashion Jewellery section css end  */
+
+    /* Exclusive Makeup section css start  */
+
+
+    section.exclusive_makeup .exclusive_makeup_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.exclusive_makeup .makeup_bottom_text p {
+        font-size: 13px;
+    }
+
+    /* Exclusive Makeup section css end  */
+
+    /* bedroom comfort section css start  */
+
+
+    section.bedroom_comfort .bedroom_comfort_img {
+        margin-bottom: 15px;
+    }
+
+    section.bedroom_comfort .row .col-lg-4:nth-child(3) .bedroom_comfort_img {
+        margin-bottom: 0px;
+    }
+
+    /* bedroom comfort section css end  */
+
+
+    /* # new on womancart section css start  */
+
+
+    section.new_on_womancart .new_on_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.new_on_womancart .new_on_slider .owl-dot {
+        display: none !important;
+    }
+
+    section.new_on_womancart .new_on_womancart_wrp .hover_text h3 {
+        font-size: 18px;
+        line-height: inherit;
+    }
+
+    section.new_on_womancart .static_img img {
+        border-radius: 10px;
+    }
+
+    section.new_on_womancart .view_all_btn a {
+        font-size: 14px;
+        padding: 0;
+    }
+
+    section.new_on_womancart .view_all_btn a i {
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+        border-radius: 50px;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+
+    /* # new on womancart section css end  */
+
+
+    /* top brands section css start  */
+
+
+    section.top_brands .top_brands_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.top_brands .tab-content {
+        margin-top: 10px;
+        padding: 10px 10px 0px 10px;
+    }
+
+    section.top_brands .about_brands_img {
+        margin-bottom: 15px;
+    }
+
+    section.top_brands .nav-tabs {
+        border-bottom: 0;
+    }
+
+
+    /* top brands section css end  */
+
+    /* Explore Gifting section css start  */
+
+
+    section.explore_gifting .explore_gifting_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.explore_gifting .explore_gifting_text {
+        margin-top: 10px;
+    }
+
+    /* Explore Gifting section css end  */
+
+
+    /* mom and baby section css start  */
+
+    section.mom_baby .mom_baby_wrp img {
+        border-radius: 10px;
+    }
+
+    section.mom_baby .mom_baby_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.mom_baby .row .col-lg-3:nth-child(3) .mom_baby_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.mom_baby .row .col-lg-3:nth-child(4) .mom_baby_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* mom and baby section css end  */
+
+    /* kitchen essential section css start  */
+
+    .kitchen_essential_wrp {
+        margin-bottom: 15px;
+    }
+
+    .kitchen_essential_img img {
+        border-radius: 10px;
+    }
+
+    .kitchen_essential .row .col-lg-4:nth-child(3) .kitchen_essential_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* kitchen essential section css end  */
+
+
+    /* Sparkle & Shine section css start  */
+
+
+    section.sparkle_shine .sparke_wrp {
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    section.sparkle_shine .sparkle_text p {
+        font-size: 13px;
+    }
+
+    section.sparkle_shine .sparkle_text {
+        margin-top: 10px;
+    }
+
+    section.sparkle_shine .sparkle_shine_slider .owl-dot {
+        display: none !important;
+    }
+
+    section.sparkle_shine .sparkle_shine_slider .owl-nav {
+        display: none !important;
+    }
+
+
+    /* Sparkle & Shine section css end  */
+
+    /* for festival section css start  */
+
+
+    section.for_festival .festival_head {
+        padding: 15px;
+        position: relative;
+    }
+
+    section.for_festival .festival_head::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #00000099;
+    }
+
+    section.for_festival .quotes img {
+        width: 35px;
+
+    }
+
+    section.for_festival .btn_head h3 {
+        font-size: 18px;
+    }
+
+    section.for_festival .festival_inner_content {
+        position: relative;
+        z-index: 1;
+    }
+
+    section.for_festival .text h4 {
+        font-size: 18px;
+    }
+
+    section.for_festival .explore_btn_festival a {
+        padding: 7px 15px 7px 10px;
+        font-size: 13px;
+    }
+
+    section.for_festival .festival_flex {
+        display: flex;
+        justify-content: start;
+        align-items: start;
+        height: auto;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    section.for_festival .text {
+        width: 100%;
+    }
+
+    section.for_festival .btn_with_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+    /* for festival section css end  */
+
+    /* comfy casual section css start  */
+
+
+    section.comfy_casual .explore_repeat_bg {
+        height: auto;
+    }
+
+    section.comfy_casual .explore_text h3 {
+        font-size: 25px;
+        line-height: inherit;
+    }
+
+    section.comfy_casual .view_btn {
+        margin-top: 107px;
+    }
+
+    /* comfy casual section css end  */
+
+
+    /* be a superman section css start  */
+
+
+    section.be_superman .be_superman_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.be_superman .be_superman_wrp img {
+        border-radius: 10px;
+    }
+
+    section.be_superman .row .col-lg-4:nth-child(3) .be_superman_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* be a superman section css end  */
+
+    /* hair Essentials section css start  */
+
+
+    section.hair_essential .hair_essintial_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.hair_essential .row .col-lg-3:nth-child(3) .hair_essintial_wrp {
+        margin-bottom: 0px;
+    }
+
+    section.hair_essential .row .col-lg-3:nth-child(4) .hair_essintial_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* hair Essentials section css end  */
+
+    /* shop without limits section css start  */
+
+
+    section.shop_limits .shop_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.shop_limits .shop_img img {
+        border-radius: 10px;
+    }
+
+    .desktop_margin_bottom {
+        margin-bottom: 15px !important;
+    }
+
+    section.shop_limits .row .col-lg-6:nth-child(4) .shop_wrp {
+        margin-bottom: 0px !important;
+    }
+
+    /* shop without limits section css end  */
+
+    /* sexual wellness section css start  */
+
+
+    section.sexual_wellness .sexsual_wrp_img img {
+        border-radius: 10px;
+    }
+
+    section.sexual_wellness .sexsual_wrp {
+        margin-bottom: 15px;
+    }
+
+    section.sexual_wellness .row .col-lg-4:nth-child(3) .sexsual_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* sexual wellness section css end  */
+
+    /* shiping details section css start  */
+
+
+    section.shiping_details .shiping_wrp {
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+
+    section.shiping_details .shiping_icon img {
+        width: 15px;
+    }
+
+    section.shiping_details .about_details h6 {
+        font-size: 9px;
+    }
+
+    section.shiping_details .about_details p {
+        font-size: 5px;
+    }
+
+    section.shiping_details .row .col-lg-3:nth-child(4) .shiping_wrp {
+        margin-bottom: 0px;
+    }
+
+    /* shiping details section css end  */
+
+    /* latest news section css start  */
+
+
+    section.latest_news .latest_news_wrp h4 {
+        font-size: 18px;
+    }
+
+    section.latest_news .form_group {
+        width: 100%;
+    }
+
+    section.latest_news .form_group .form-control {
+        border-radius: 5px;
+    }
+
+    section.latest_news .submit_btn {
+        border-radius: 5px;
+    }
+
+    /* latest news section css end  */
+
+    /* footer section css start  */
+
+
+    footer .footer_logo img {
+        width: 60%;
+    }
+
+    footer .footer_text {
+        margin-top: 10px;
+    }
+
+    footer .footer_head {
+        margin-left: 0;
+    }
+
+    footer .footer_head h4 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    footer hr {
+        margin: 0.2rem 0 1rem;
+    }
+
+    footer hr:not([size]) {
+        height: 1px;
+    }
+
+    footer .copyright_head h4 {
+        font-size: 14px;
+    }
+
+    footer .social_media_icon h5 {
+        font-size: 16px;
+    }
+
+    footer .social_media_icon ul {
+        margin-top: 10px;
+    }
+
+    /* footer section css end  */
+
+    /* sunil */
+    /* offer child */
+
+    .offer-type-child {
+        width: 32.666667%;
+    }
+
+    .offer-type-child {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+
+    section.budget_discount .budget_slider .owl-nav {
+        display: none !important;
+    }
+
+    section.budget_discount .budget {
+        width: 170px;
+        height: 170px;
+    }
+
+
+    section.budget_discount .budget_big_text h2 {
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+
+
+    /* ---------- product details page css start ------------ */
+
+    section.product_details {
+        padding: 15px;
+    }
+
+    section.product_details .slider__flex .slider__images {
+        height: auto;
+    }
+
+    section.product_details .slider__flex {
+        margin-right: 0px;
+    }
+
+    section.product_details .slider__flex .slider__col {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        position: relative;
+    }
+
+    section.product_details .slider__flex .slider__thumbs {
+        height: auto;
+        width: calc(100% - 0px);
+        margin: 0;
+    }
+
+    section.product_details .slider__flex .swiper-container-free-mode>.swiper-wrapper .swiper-slide {
+        height: 60px !important;
+        margin-bottom: 5px !important;
+        width: 62px !important;
+        margin-right: 5px !important;
+    }
+
+    section.product_details .slider__flex .slider__prev,
+    section.product_details .slider__flex .slider__next {
+        font-size: 20px;
+    }
+
+    section.product_details .slider__next {
+        position: absolute;
+        right: -20px;
+        top: 16px;
+        transform: rotate(266deg);
+        z-index: 2;
+    }
+
+    section.product_details .slider__prev {
+        position: absolute;
+        left: -20px;
+        top: 16px;
+        transform: rotate(266deg);
+        z-index: 2;
+    }
+
+    section.product_details .right_heading h3 {
+        font-size: 18px;
+    }
+
+    section.product_details .details_right_content {
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    section.product_details .rating_flex {
+        margin-top: 10px;
+        width: 103px;
+    }
+
+    section.product_details .rating_flex p {
+        font-size: 9px;
+    }
+
+    section.product_details .percentage p {
+        font-size: 17px;
+    }
+
+    section.product_details .price_text {
+        line-height: 19px;
+    }
+
+    section.product_details .price_text span {
+        font-size: 9px
+    }
+
+    section.product_details .fill_check {
+        margin-right: 10px;
+        margin-top: 7px;
+    }
+
+    section.product_details .check_boxes {
+        margin-top: 5px;
+        align-items: start;
+    }
+
+    section.product_details .pr-0px {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+
+    section.product_details .add_to_cart {
+        margin-right: 10px;
+        width: 50%;
+    }
+
+    section.product_details .add_to_cart a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .add_to_cart a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .wishlist_btn {
+        width: 50%;
+    }
+
+    section.product_details .wishlist_btn a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .wishlist_btn a img {
+        width: 15px;
+        margin-right: 5px;
+    }
+
+    section.product_details .buy_now_btn {
+        margin-top: 10px;
+    }
+
+    section.product_details .buy_now_btn a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+
+    section.product_details .product_quality_flex {
+        flex-direction: column;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp:nth-child(1) {
+        border: none;
+        margin-bottom: 10px;
+    }
+
+    section.product_details .product_quality_flex .qualtiy_wrp p {
+        font-size: 13px;
+    }
+
+    section.product_details .buy_now_btn p {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+
+    section.product_details .product_texts h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    section.product_details .product_description_wrp {
+        padding: 20px 0px;
+    }
+
+    section.product_details .product_details_pera {
+        height: 250px;
+    }
+
+    section.product_details .product_details_pera::-webkit-scrollbar {
+        width: 5px;
+        background-color: #ececec;
+    }
+
+    section.product_details .specification_tabs {
+        padding: 0px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        margin-right: 10px;
+    }
+
+    section.product_details .specification_tabs .nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+    }
+
+    section.product_details .specification_tabs .nav-link.active {
+        border-bottom: 2px solid #e7126e;
+
+    }
+
+    section.product_details .specification_tabs .table {
+        margin-top: 15px;
+    }
+
+    section.product_details .specification_tabs .table>:not(caption)>*>* {
+        padding: 0.3rem 0.5rem;
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp {
+        padding: 20px 0px 0px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    section.product_details .write_review_wrp .ratings p {
+        font-size: 10px;
+    }
+
+    section.product_details .write_review_wrp .ratings {
+        width: 40%;
+    }
+
+    section.product_details .write_review_wrp .ratings h4 img {
+        width: 15px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns {
+        margin-left: 0;
+        padding-left: 20px;
+        height: 68px;
+    }
+
+    section.product_details .write_review_wrp .write_review_btns p {
+        margin-bottom: 5px;
+    }
+
+    section.product_details .write_review_wrp .write_btn a {
+        padding: 6px 20px;
+        font-size: 10px;
+        border-radius: 2px
+    }
+
+    section.product_details .write_review_wrp .user_img img {
+        width: 30px;
+    }
+
+    section.product_details .write_review_wrp .write_text_flex {
+        flex-direction: column;
+        border-bottom: 1px solid #ebebeb;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    section.product_details .write_review_wrp .rating_flex_wrp {
+        margin-top: 20px;
+    }
+
+    section.product_details .write_review_wrp .user_name {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    section.product_details .write_review_wrp .rating_flex_wrp p {
+        margin-bottom: 0px;
+    }
+
+    section.product_details .write_review_wrp .rating_no a {
+        font-size: 12px;
+        width: 28px;
+    }
+
+    section.product_details .write_review_wrp .rating_no img {
+        width: 10px;
+    }
+
+    section.product_details .write_review_wrp .rating_heading h5 {
+
+        font-size: 17px;
+        margin-top: 15px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    section.product_details .write_review_wrp .read_more_review a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+
+    section.product_details .delivery_wrp {
+        padding: 10px;
+    }
+
+    section.product_details .form_group label {
+        font-size: 12px;
+    }
+
+    section.product_details .write_review_wrp .user_name h4 {
+        font-size: 16px;
+    }
+
+    section.product_details .form_group label img {
+        margin-right: 1px;
+        width: 8px;
+    }
+
+    section.product_details .flex_delivery .form-control {
+        border-radius: 3px;
+        padding: 5px 30px;
+        font-size: 12px;
+    }
+
+    section.product_details .flex_delivery img {
+        left: 7px;
+        width: 16px;
+        top: 8px;
+    }
+
+    section.product_details .flex_delivery .check_btn {
+        border-radius: 3px;
+        padding: 5px 0px;
+        font-size: 12px;
+    }
+
+
+    section.product_details .detail_fix_wrp {
+        margin-top: 10px;
+        height: auto;
+        padding: 15px;
+    }
+
+    section.product_details .detail_white_bg {
+        padding: 15px 15px 30px 15px;
+    }
+
+    section.product_details .add_btn a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+    section.product_details .wishlist_btns a {
+        padding: 8px 20px;
+        font-size: 13px;
+        border-radius: 3px;
+    }
+
+    section.product_details .details_btn {
+        margin-top: 10px;
+        justify-content: center;
+    }
+
+    section.product_details .dummy_price {
+        margin-left: 20px;
+    }
+
+    section.product_details .detail_fix_wrp .price_flex {
+        width: 80%;
+        padding-bottom: 10px;
+    }
+
+    section.product_details .detail_white_bg .fix_text span {
+        font-size: 11px;
+    }
+
+    /* ---------- product details page css end ------------ */
+
+
+
+    /*---------------- Product listing page css start ---------------- */
+    section.listing_product .content {
+        padding-top: 30px;
+        padding-left: 12px;
+        border-left: 0;
+    }
+
+    section.listing_product .waiting_cart .col-lg-3 {
+        margin-bottom: 20px;
+    }
+
+    section.listing_product .filters-actions>div>* {
+        font-size: 8px;
+    }
+
+    section.listing_product .filters-actions .dropdown .dropdown-toggle {
+        padding: 8px 5px 8px 5px;
+        font-size: 8px;
+    }
+
+    section.listing_product .filter-header {
+        font-size: 16px;
+        justify-content: space-between;
+        text-transform: uppercase;
+        padding: 10px 0px;
+        margin-bottom: 0px;
+    }
+
+    section.listing_product .filter_card:after {
+        display: none;
+    }
+    section.listing_product .sidebar.open{
+        width: 100%;
+    }
+
+    section.listing_product .filter_card {
+        border-top: 1px solid #d9d9d9;
+    }
+
+    section.listing_product .wrapper {
+        margin-bottom: 10px;
+    }
+
+    section.listing_product .explore_btn {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    section.listing_product span.mr-2.filter-close-btn {
+        margin-left: 13px;
+    }
+    section.listing_product .pd-right-0 {
+        padding-right: 12px;
+    }
+    /*---------------- Product listing page css end ---------------- */
+
+}
